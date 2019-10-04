@@ -1,0 +1,3780 @@
+1,1953,Tornado,GA
+2,1953,Tornado,TX
+3,1953,Flood,LA
+4,1953,Tornado,MI
+5,1953,Flood,MT
+6,1953,Tornado,MI
+7,1953,Tornado,MA
+8,1953,Flood,IA
+9,1953,Flood,TX
+11,1953,Fire,NH
+12,1954,Flood,FL
+14,1954,Tornado,MS
+15,1954,Flood,CA
+16,1954,Tornado,GA
+17,1954,Flood,IA
+18,1954,Flood,TX
+20,1954,Flood,SD
+21,1954,Flood,WV
+22,1954,Hurricane,MA
+23,1954,Hurricane,RI
+24,1954,Hurricane,ME
+25,1954,Hurricane,CT
+26,1955,Hurricane,NY
+27,1955,Flood,NM
+28,1955,Hurricane,NC
+29,1955,Hurricane,SC
+30,1955,Flood,IN
+33,1955,Flood,CO
+34,1955,Tornado,KS
+35,1955,Flood,OK
+36,1955,Flood,NV
+37,1955,Hurricane,NC
+38,1955,Flood,NM
+39,1955,Hurricane,RI
+40,1955,Flood,PA
+41,1955,Hurricane,NJ
+42,1955,Hurricane,CT
+43,1955,Hurricane,MA
+44,1955,Hurricane,SC
+45,1955,Hurricane,NY
+47,1956,Flood,CA
+48,1956,Flood,NV
+49,1956,Flood,OR
+50,1956,Flood,WA
+51,1956,Flood,PA
+52,1956,Flood,NY
+53,1956,Tornado,MI
+54,1956,Tornado,OK
+55,1956,Flood,ID
+56,1956,Severe Storm(s),NC
+58,1956,Severe Storm(s),PA
+59,1956,Flood,CO
+60,1956,Flood,OR
+61,1956,Severe Storm(s),PA
+62,1956,Hurricane,PR
+63,1956,Flood,NV
+64,1957,Hurricane,LA
+65,1957,Fire,CA
+66,1957,Flood,KY
+67,1957,Flood,WV
+68,1957,Flood,VA
+69,1957,Flood,OR
+70,1957,Flood,WA
+72,1957,Hurricane,TX
+73,1957,Hurricane,LA
+74,1957,Flood,OK
+75,1957,Tornado,MO
+76,1957,Flood,ID
+77,1957,Tornado,AR
+78,1957,Flood,IL
+79,1957,Tornado,ND
+80,1957,Flood,MN
+81,1957,Flood,KS
+82,1958,Flood,CA
+83,1958,Flood,AR
+84,1958,Flood,LA
+85,1958,Tornado,TX
+86,1958,Flood,IA
+87,1958,Hurricane,NC
+88,1959,Flood,KS
+89,1959,Flood,PA
+90,1959,Flood,OH
+91,1959,Flood,IN
+92,1959,Flood,OK
+93,1959,Flood,TX
+94,1959,Hurricane,HI
+95,1960,Flood,OK
+98,1960,Flood,NE
+99,1960,Flood,SD
+100,1960,Flood,MO
+102,1960,Tornado,AR
+103,1960,Severe Storm(s),TX
+104,1960,Severe Storm(s),OK
+105,1960,Fire,ID
+106,1960,Hurricane,FL
+107,1960,Hurricane,NC
+108,1961,Flood,MS
+109,1961,Flood,AL
+110,1961,Flood,GA
+111,1961,Flood,IA
+112,1961,Flood,AR
+113,1961,Flood,IN
+114,1961,Flood,MO
+115,1961,Flood,IL
+116,1961,Flood,ID
+117,1961,Flood,WV
+118,1961,Hurricane,TX
+119,1962,Fire,CA
+120,1962,Flood,ID
+121,1962,Flood,NV
+122,1962,Flood,CA
+123,1962,Flood,VA
+124,1962,Flood,NJ
+125,1962,Flood,WV
+126,1962,Flood,DE
+127,1962,Flood,MD
+128,1962,Flood,KY
+129,1962,Flood,NY
+130,1962,Flood,NC
+131,1962,Flood,NE
+132,1962,Flood,SD
+133,1962,Flood,IA
+134,1962,Flood,NE
+136,1963,Severe Storm(s),OR
+137,1963,Severe Storm(s),WA
+138,1963,Flood,CA
+140,1963,Typhoon,GU
+141,1963,Flood,FL
+142,1963,Flood,NV
+143,1963,Flood,ID
+144,1963,Flood,OR
+145,1963,Flood,CA
+146,1963,Flood,WA
+147,1963,Flood,WV
+148,1963,Flood,KY
+149,1963,Flood,VA
+150,1963,Flood,GA
+151,1963,Flood,TN
+152,1963,Flood,HI
+153,1963,Typhoon,GU
+154,1963,Typhoon,FM
+155,1963,Flood,WY
+156,1963,Flood,NE
+157,1963,Flood,AR
+158,1963,Flood,NY
+159,1963,Hurricane,TX
+160,1964,Drought,VT
+162,1964,Flood,IN
+163,1964,Flood,KY
+164,1964,Flood,VT
+165,1964,Flood,WV
+166,1964,Flood,AR
+167,1964,Flood,OH
+170,1964,Drought,PR
+171,1964,Drought,VI
+172,1964,Flood,MT
+173,1964,Flood,MO
+174,1964,Flood,NE
+175,1964,Hurricane,FL
+176,1964,Hurricane,FL
+177,1964,Hurricane,GA
+178,1965,Hurricane,LA
+179,1965,Flood,NC
+180,1965,Flood,GA
+181,1965,Typhoon,FM
+182,1965,Snow,MT
+183,1965,Flood,CA
+184,1965,Flood,OR
+185,1965,Flood,WA
+186,1965,Flood,ID
+187,1965,Flood,NV
+188,1965,Flood,MN
+189,1965,Tornado,IN
+190,1965,Tornado,MI
+191,1965,Tornado,OH
+192,1965,Tornado,WI
+193,1965,Flood,IA
+194,1965,Tornado,IL
+195,1965,Flood,ND
+197,1965,Flood,SD
+198,1965,Severe Storm(s),MO
+199,1965,Tornado,TX
+200,1965,Tornado,CO
+201,1965,Flood,KS
+202,1965,Flood,NM
+203,1965,Flood,MO
+204,1965,Drought,NY
+205,1965,Drought,NJ
+206,1965,Drought,PA
+207,1965,Drought,DE
+208,1965,Hurricane,LA
+209,1965,Hurricane,FL
+210,1965,Hurricane,MS
+211,1966,Flood,CA
+212,1966,Flood,CA
+213,1966,Typhoon,AS
+214,1966,Flood,GA
+215,1966,Flood,MN
+216,1966,Flood,ND
+217,1966,Flood,AZ
+218,1966,Flood,TX
+219,1966,Tornado,KS
+220,1966,Flood,ND
+221,1966,Flood,NE
+222,1966,Flood,TX
+223,1967,Flood,CA
+224,1967,Flood,WV
+225,1967,Typhoon,PW
+226,1967,Flood,KY
+227,1967,Tornado,IL
+228,1967,Flood,NE
+229,1967,Tornado,KS
+230,1967,Flood,AK
+231,1967,Fire,ID
+232,1967,Hurricane,TX
+233,1968,Flood,NY
+234,1968,Severe Ice Storm,NC
+235,1968,Typhoon,PW
+236,1968,Tornado,AR
+237,1968,Tornado,KY
+238,1968,Tornado,OH
+239,1968,Tornado,AR
+240,1968,Tornado,IA
+241,1968,Flood,OK
+242,1968,Tornado,IL
+243,1968,Flood,OH
+244,1968,Flood,TX
+245,1968,Flood,NJ
+246,1968,Flood,TX
+247,1968,Flood,IN
+248,1968,Flood,IA
+249,1968,Flood,MN
+250,1968,Flood,MN
+251,1968,Flood,HI
+252,1969,Hurricane,FL
+253,1969,Flood,CA
+254,1969,Flood,AR
+255,1969,Flood,MN
+256,1969,Flood,ND
+257,1969,Flood,SD
+258,1969,Flood,NV
+259,1969,Flood,IA
+260,1969,Flood,WI
+261,1969,Flood,CO
+262,1969,Flood,IL
+263,1969,Flood,TN
+264,1969,Flood,WI
+265,1969,Flood,KY
+266,1969,Tornado,OH
+267,1969,Tornado,KS
+268,1969,Flood,MN
+269,1969,Flood,IA
+270,1969,Flood,CA
+271,1969,Hurricane,MS
+272,1969,Hurricane,LA
+273,1969,Flood,PA
+274,1969,Hurricane,VA
+275,1969,Flood,NY
+276,1969,Flood,IL
+277,1969,Flood,VT
+278,1969,Hurricane,WV
+279,1969,Flood,WV
+280,1970,Hurricane,AL
+281,1970,Severe Storm(s),AK
+282,1970,Flood,KY
+283,1970,Flood,CA
+284,1970,Flood,ME
+285,1970,Severe Storm(s),AL
+286,1970,Tornado,TX
+287,1970,Flood,ND
+288,1970,Flood,KY
+289,1970,Flood,FL
+290,1970,Flood,NY
+291,1970,Flood,MN
+292,1970,Hurricane,TX
+293,1970,Flood,CO
+294,1970,Flood,AZ
+295,1970,Fire,CA
+296,1971,Flood,PR
+297,1971,Severe Storm(s),OK
+298,1971,Flood,VI
+300,1971,Flood,WA
+301,1971,Flood,OR
+302,1971,Tornado,MS
+303,1971,Flood,NE
+305,1971,Tornado,KY
+306,1971,Tornado,TN
+307,1971,Typhoon,FM
+308,1971,Flood,NE
+309,1971,Flood,MD
+310,1971,Flood,NJ
+311,1971,Flood,NY
+312,1971,Flood,PA
+313,1971,Flood,TX
+314,1971,Flood,OK
+315,1972,Hurricane,LA
+316,1972,Flood,CA
+317,1972,Flood,OK
+318,1972,Flood,MS
+319,1972,Flood,OR
+320,1972,Flood,TX
+321,1972,Flood,AR
+322,1972,Flood,WA
+323,1972,Flood,WV
+324,1972,Flood,ID
+325,1972,Flood,MA
+326,1972,Flood,ME
+328,1972,Flood,WA
+329,1972,Flood,CA
+330,1972,Snow,MI
+331,1972,Flood,TN
+332,1972,Flood,KY
+333,1972,Flood,TX
+334,1972,Flood,WA
+335,1972,Flood,ND
+336,1972,Flood,SD
+338,1972,Flood,NY
+339,1972,Flood,VA
+340,1972,Flood,PA
+341,1972,Flood,MD
+342,1972,Flood,CA
+343,1972,Flood,AZ
+344,1972,Flood,WV
+345,1972,Flood,OH
+346,1972,Flood,NM
+347,1972,Flood,MN
+348,1972,Flood,IA
+349,1972,Flood,WV
+350,1972,Flood,MN
+351,1972,Flood,IL
+352,1972,Flood,WI
+353,1972,Flood,NM
+354,1972,Flood,IA
+355,1972,Flood,PA
+358,1973,Flood,VA
+359,1973,Flood,VA
+360,1973,Flood,AZ
+361,1973,Flood,NM
+362,1973,Flood,OH
+363,1973,Flood,MI
+364,1973,Flood,CA
+365,1973,Severe Storm(s),TX
+366,1973,Flood,TN
+367,1973,Flood,NY
+368,1973,Severe Storm(s),MS
+369,1973,Tornado,AL
+370,1973,Tornado,GA
+371,1973,Flood,MI
+372,1973,Severe Storm(s),MO
+373,1973,Flood,IL
+374,1973,Flood,LA
+375,1973,Flood,AR
+376,1973,Flood,WI
+377,1973,Flood,OH
+378,1973,Flood,KS
+380,1973,Flood,NM
+381,1973,Flood,KY
+382,1973,Flood,TN
+384,1973,Flood,ME
+385,1973,Flood,CO
+386,1973,Flood,IA
+387,1973,Flood,FL
+388,1973,Flood,AL
+389,1973,Flood,AR
+391,1973,Tornado,GA
+392,1973,Severe Storm(s),OK
+393,1973,Flood,TX
+394,1973,Flood,NC
+395,1973,Flood,TN
+396,1973,Flood,CO
+397,1973,Flood,VT
+398,1973,Flood,TX
+399,1973,Flood,NH
+400,1973,Flood,PA
+401,1973,Flood,NY
+402,1973,Flood,NJ
+403,1973,Severe Storm(s),KS
+404,1974,Flood,OK
+405,1974,Fire,MA
+406,1974,Flood,NE
+407,1974,Flood,MO
+408,1974,Flood,AK
+409,1974,Flood,OK
+410,1974,Flood,ME
+411,1974,Flood,NH
+412,1974,Flood,CA
+413,1974,Flood,OR
+414,1974,Flood,WA
+415,1974,Flood,ID
+416,1974,Flood,WV
+417,1974,Flood,MT
+418,1974,Flood,LA
+419,1974,Flood,OK
+420,1974,Tornado,KY
+421,1974,Tornado,OH
+422,1974,Tornado,AL
+423,1974,Tornado,IN
+424,1974,Tornado,TN
+425,1974,Tornado,GA
+426,1974,Flood,WV
+427,1974,Tornado,IL
+428,1974,Tornado,NC
+429,1974,Tornado,MI
+430,1974,Flood,MS
+431,1974,Tornado,WI
+432,1974,Flood,CA
+433,1974,Flood,HI
+434,1974,Flood,ND
+435,1974,Flood,AR
+436,1974,Flood,OH
+437,1974,Flood,AR
+438,1974,Flood,IL
+439,1974,Flood,MO
+440,1974,Flood,MN
+441,1974,Flood,OK
+442,1974,Flood,KS
+443,1974,Flood,IA
+445,1974,Flood,OH
+446,1974,Flood,MN
+447,1974,Flood,NY
+448,1974,Hurricane,LA
+449,1974,Drought,AS
+450,1975,Severe Storm(s),LA
+451,1975,Flood,VI
+452,1975,Flood,AK
+453,1975,Flood,OK
+454,1975,Flood,TX
+455,1975,Flood,PR
+456,1975,Tornado,MS
+457,1975,Flood,TX
+458,1975,Flood,AL
+459,1975,Flood,TN
+460,1975,Tornado,GA
+461,1975,Flood,KY
+462,1975,Tornado,TX
+463,1975,Tornado,AR
+464,1975,Flood,AL
+465,1975,Flood,MI
+466,1975,Tornado,MO
+467,1975,Tornado,NE
+468,1975,Flood,KY
+469,1975,Flood,ND
+470,1975,Severe Storm(s),LA
+471,1975,Flood,AR
+472,1975,Flood,MT
+473,1975,Flood,MN
+474,1975,Severe Storm(s),OK
+475,1975,Flood,ND
+476,1975,Severe Storm(s),MN
+477,1975,Flood,NJ
+478,1975,Tornado,IL
+479,1975,Flood,FL
+480,1975,Flood,OH
+481,1975,Flood,WV
+482,1975,Severe Storm(s),WI
+483,1975,Flood,PR
+484,1975,Flood,FL
+485,1975,Flood,PA
+486,1975,Flood,MI
+487,1976,Flood,NY
+488,1976,Severe Storm(s),AL
+489,1976,Flood,MD
+491,1976,Tornado,OK
+492,1976,Flood,WA
+493,1976,Fire,AK
+494,1976,Severe Ice Storm,NY
+495,1976,Severe Storm(s),MI
+496,1976,Flood,WI
+497,1976,Tornado,OK
+498,1976,Tornado,AR
+499,1976,Severe Storm(s),MS
+500,1976,Severe Ice Storm,NE
+501,1976,Flood,ND
+502,1976,Typhoon,PW
+503,1976,Typhoon,GU
+504,1976,Flood,OK
+505,1976,Flood,ID
+506,1976,Typhoon,PW
+507,1976,Flood,GA
+508,1976,Typhoon,MP
+509,1976,Severe Storm(s),IL
+510,1976,Flood,TX
+511,1976,Flood,SD
+512,1976,Flood,NY
+513,1976,Flood,PA
+514,1976,Flood,KS
+515,1976,Flood,NY
+516,1976,Flood,MO
+517,1976,Flood,CO
+518,1976,Flood,VT
+519,1976,Flood,NJ
+520,1976,Hurricane,NY
+521,1976,Flood,CA
+522,1977,Flood,MD
+523,1977,Flood,PA
+524,1977,Snow,MD
+527,1977,Snow,NY
+528,1977,Severe Ice Storm,NJ
+529,1977,Flood,KY
+530,1977,Flood,VA
+531,1977,Flood,WV
+532,1977,Flood,AL
+533,1977,Flood,TN
+534,1977,Flood,LA
+535,1977,Tornado,MO
+537,1977,Flood,PA
+538,1977,Flood,MO
+539,1977,Flood,KS
+540,1978,Flood,AZ
+541,1978,Flood,GA
+542,1978,Flood,NC
+543,1978,Flood,VA
+544,1978,Flood,TN
+545,1978,Flood,WA
+546,1978,Flood,MA
+547,1978,Flood,CA
+548,1978,Snow,RI
+549,1978,Flood,NH
+550,1978,Flood,ME
+551,1978,Flood,AZ
+552,1978,Flood,NE
+553,1978,Flood,IN
+554,1978,Flood,ND
+555,1978,Flood,MN
+556,1978,Flood,LA
+557,1978,Flood,WY
+558,1978,Flood,MT
+559,1978,Severe Storm(s),WI
+560,1978,Severe Storm(s),MN
+561,1978,Flood,TX
+562,1978,Flood,MP
+563,1978,Flood,AL
+564,1978,Flood,AR
+565,1978,Flood,LA
+566,1979,Flood,CA
+567,1979,Tornado,LA
+568,1979,Flood,KY
+569,1979,Flood,WV
+570,1979,Flood,AZ
+571,1979,Flood,NM
+572,1979,Typhoon,MH
+573,1979,Flood,HI
+574,1979,Tornado,AR
+575,1979,Tornado,TX
+576,1979,Tornado,OK
+577,1979,Severe Storm(s),MS
+578,1979,Flood,AL
+579,1979,Tornado,MO
+580,1979,Severe Storm(s),TX
+581,1979,Flood,ND
+582,1979,Flood,MN
+583,1979,Flood,IL
+584,1979,Flood,LA
+585,1979,Severe Storm(s),TN
+586,1979,Severe Storm(s),FL
+587,1979,Flood,TX
+588,1979,Flood,KS
+589,1979,Flood,NM
+590,1979,Tornado,IA
+591,1979,Tornado,WY
+592,1979,Flood,KY
+593,1979,Flood,VA
+594,1979,Flood,CA
+595,1979,Flood,TX
+596,1979,Flood,IN
+597,1979,Hurricane,PR
+598,1979,Hurricane,AL
+599,1979,Hurricane,MS
+600,1979,Hurricane,FL
+601,1979,Severe Storm(s),MD
+602,1979,Hurricane,VI
+603,1979,Flood,TX
+604,1979,Flood,LA
+605,1979,Flood,NC
+606,1979,Flood,VA
+607,1979,Flood,FL
+608,1980,Tornado,CT
+610,1980,Flood,AS
+611,1980,Flood,FM
+612,1980,Flood,WA
+613,1980,Flood,HI
+614,1980,Flood,AZ
+615,1980,Flood,CA
+616,1980,Flood,LA
+617,1980,Tornado,AR
+618,1980,Severe Storm(s),MS
+619,1980,Severe Storm(s),AL
+620,1980,Tornado,MO
+621,1980,Tornado,MI
+622,1980,Flood,LA
+625,1980,Tornado,NE
+626,1980,Flood,WI
+627,1980,Hurricane,TX
+628,1980,Flood,WV
+629,1980,Flood,PA
+630,1980,Flood,OH
+631,1980,Flood,MI
+632,1980,Flood,TX
+633,1981,Flood,CA
+634,1981,Typhoon,MP
+635,1981,Fire,CA
+637,1981,Typhoon,AS
+638,1981,Severe Storm(s),AL
+639,1981,Flood,AL
+640,1981,Flood,MT
+641,1981,Flood,PA
+642,1981,Severe Storm(s),OH
+643,1981,Severe Storm(s),IL
+644,1981,Severe Storm(s),KS
+645,1981,Flood,NV
+646,1981,Flood,TX
+647,1981,Fire,FM
+648,1982,Flood,TX
+649,1982,Flood,OK
+650,1982,Fire,MA
+651,1982,Flood,CA
+652,1982,Flood,IN
+653,1982,Flood,OH
+654,1982,Flood,MI
+655,1982,Tornado,TX
+656,1982,Flood,HI
+657,1982,Fire,CA
+658,1982,Flood,ND
+659,1982,Flood,TX
+660,1982,Tornado,IL
+661,1982,Flood,CT
+662,1982,Flood,OK
+663,1982,Flood,KS
+664,1982,Flood,FL
+665,1982,Flood,CO
+666,1982,Flood,TN
+667,1982,Flood,MO
+668,1982,Flood,TN
+669,1982,Flood,CA
+670,1982,Flood,KY
+671,1983,Typhoon,HI
+672,1983,Flood,MO
+673,1983,Severe Storm(s),AR
+674,1983,Severe Storm(s),IL
+675,1983,Flood,LA
+676,1983,Flood,WA
+678,1983,Severe Storm(s),MS
+679,1983,Flood,LA
+680,1983,Flood,UT
+681,1983,Flood,VI
+683,1983,Severe Storm(s),MS
+684,1983,Severe Storm(s),IL
+685,1983,Flood,OK
+686,1983,Flood,AZ
+687,1983,Flood,CA
+688,1983,Flood,AR
+689,1983,Hurricane,TX
+690,1983,Flood,CA
+691,1984,Flood,AZ
+692,1984,Flood,NM
+693,1984,Flood,OK
+695,1984,Severe Storm(s),AL
+697,1984,Snow,ID
+699,1984,Tornado,NC
+700,1984,Tornado,SC
+701,1984,Flood,NJ
+702,1984,Flood,NY
+703,1984,Tornado,MS
+704,1984,Tornado,OK
+705,1984,Severe Storm(s),KY
+706,1984,Flood,WV
+707,1984,Flood,VA
+708,1984,Flood,TN
+709,1984,Flood,OK
+710,1984,Tornado,WI
+711,1984,Flood,CT
+712,1984,Flood,VT
+713,1984,Flood,MO
+714,1984,Severe Storm(s),KS
+715,1984,Severe Storm(s),IA
+716,1984,Tornado,NE
+717,1984,Flood,SD
+718,1984,Tornado,NE
+719,1984,Flood,CO
+720,1984,Flood,UT
+721,1984,Flood,PA
+722,1984,Flood,NM
+723,1984,Flood,NV
+724,1984,Hurricane,NC
+725,1984,Flood,NY
+726,1985,Flood,TX
+727,1985,Flood,TX
+728,1985,Flood,LA
+729,1985,Hurricane,VI
+730,1985,Severe Storm(s),AZ
+731,1985,Flood,NM
+733,1985,Flood,NY
+734,1985,Snow,NY
+735,1985,Flood,IL
+736,1985,Flood,PR
+737,1985,Tornado,PA
+738,1985,Tornado,OH
+739,1985,Fire,CA
+740,1985,Flood,WY
+741,1985,Hurricane,MS
+742,1985,Hurricane,AL
+743,1985,Hurricane,FL
+744,1985,Flood,MI
+745,1986,Hurricane,PA
+746,1986,Flood,PR
+747,1986,Hurricane,CT
+748,1986,Hurricane,RI
+749,1986,Hurricane,NJ
+750,1986,Hurricane,NY
+751,1986,Hurricane,MA
+752,1986,Hurricane,LA
+753,1986,Flood,WV
+754,1986,Flood,PA
+755,1986,Flood,VA
+756,1986,Hurricane,FL
+757,1986,Flood,WA
+758,1986,Flood,CA
+759,1986,Flood,NV
+760,1986,Flood,UT
+761,1986,Flood,MT
+762,1986,Flood,WA
+763,1986,Tornado,TX
+764,1986,Flood,SD
+765,1986,Typhoon,FM
+766,1986,Flood,PA
+767,1986,Tornado,IN
+768,1986,Flood,PR
+769,1986,Flood,WA
+770,1986,Flood,WI
+771,1986,Flood,NH
+772,1986,Tornado,TX
+773,1986,Flood,MD
+774,1986,Flood,MI
+775,1987,Flood,WI
+776,1987,Flood,IL
+777,1987,Flood,MT
+778,1987,Flood,OK
+779,1987,Flood,MO
+780,1987,Flood,KS
+781,1987,Flood,AK
+782,1987,Flood,AK
+783,1987,Typhoon,MP
+784,1987,Flood,WA
+785,1987,Hurricane,AS
+786,1987,Typhoon,FM
+787,1987,Severe Storm(s),MS
+788,1987,Flood,ME
+789,1987,Flood,NH
+790,1987,Flood,MA
+791,1987,Fire,MH
+792,1987,Flood,NY
+793,1987,Tornado,TX
+794,1987,Flood,OK
+795,1987,Flood,IA
+796,1987,Flood,OH
+797,1987,Severe Storm(s),MN
+798,1987,Flood,IL
+800,1988,Typhoon,MP
+801,1988,Snow,NY
+802,1988,Tornado,TX
+803,1988,Typhoon,FM
+804,1988,Tornado,LA
+805,1988,Flood,PR
+806,1988,Tornado,AR
+807,1988,Flood,AR
+808,1988,Flood,HI
+809,1988,Typhoon,MH
+810,1988,Typhoon,GU
+811,1988,Typhoon,MP
+812,1988,Flood,CA
+813,1988,Fire,AK
+814,1988,Tornado,IA
+815,1988,Fire,CA
+816,1989,Hurricane,TX
+817,1989,Tornado,AR
+818,1989,Tornado,NC
+819,1989,Tornado,IL
+820,1989,Flood,UT
+821,1989,Flood,KY
+822,1989,Flood,WA
+823,1989,Flood,TX
+824,1989,Flood,MN
+825,1989,Flood,ND
+827,1989,Tornado,NC
+828,1989,Severe Storm(s),TX
+829,1989,Flood,LA
+830,1989,Flood,ME
+831,1989,Flood,OH
+832,1989,Flood,AK
+833,1989,Tornado,LA
+834,1989,Flood,KY
+835,1989,Flood,LA
+836,1989,Flood,TX
+837,1989,Tornado,CT
+838,1989,Severe Storm(s),DC
+839,1989,Severe Storm(s),MD
+840,1989,Flood,VT
+841,1989,Hurricane,VI
+842,1989,Hurricane,PR
+843,1989,Hurricane,SC
+844,1989,Hurricane,NC
+846,1990,Flood,KY
+847,1990,Flood,VA
+848,1990,Tornado,AL
+849,1990,Flood,LA
+852,1990,Flood,WA
+853,1990,Flood,OR
+854,1990,Typhoon,MP
+855,1990,Hurricane,AS
+856,1990,Severe Storm(s),AL
+857,1990,Severe Storm(s),GA
+858,1990,Flood,TN
+859,1990,Severe Storm(s),MS
+860,1990,Severe Ice Storm,IL
+861,1990,Severe Storm(s),AL
+862,1990,Flood,FL
+863,1990,Severe Storm(s),TX
+865,1990,Flood,AR
+866,1990,Severe Storm(s),OK
+867,1990,Flood,MO
+868,1990,Flood,IA
+869,1990,Severe Storm(s),IN
+870,1990,Severe Storm(s),OH
+871,1990,Severe Storm(s),IL
+872,1990,Fire,CA
+873,1990,Severe Storm(s),NE
+874,1990,Severe Storm(s),WI
+875,1990,Flood,VT
+876,1990,Flood,NH
+877,1990,Flood,WI
+878,1990,Tornado,IL
+879,1990,Flood,IA
+880,1991,Flood,GA
+881,1991,Flood,SC
+882,1991,Typhoon,PW
+883,1991,Flood,WA
+884,1991,Flood,AZ
+885,1991,Flood,IN
+886,1991,Typhoon,FM
+887,1991,Typhoon,GU
+888,1991,Severe Storm(s),MS
+889,1991,Flood,TN
+890,1991,Flood,AL
+891,1991,Flood,IN
+892,1991,Typhoon,FM
+893,1991,Flood,KY
+895,1991,Flood,MS
+896,1991,Flood,WA
+897,1991,Flood,GA
+898,1991,Snow,NY
+899,1991,Severe Ice Storm,IN
+900,1991,Severe Storm(s),TX
+901,1991,Snow,ME
+902,1991,Flood,LA
+903,1991,Tornado,KS
+904,1991,Severe Storm(s),LA
+905,1991,Tornado,OK
+906,1991,Severe Storm(s),MS
+907,1991,Flood,AR
+908,1991,Flood,NE
+909,1991,Snow,AK
+910,1991,Flood,TN
+911,1991,Flood,IA
+912,1991,Severe Storm(s),WI
+913,1991,Hurricane,RI
+914,1991,Hurricane,MA
+915,1991,Hurricane,ME
+916,1991,Hurricane,CT
+917,1991,Hurricane,NH
+918,1991,Hurricane,NY
+919,1992,Fire,CA
+922,1992,Fire,WA
+924,1992,Typhoon,GU
+925,1992,Typhoon,MH
+926,1992,Typhoon,FM
+927,1992,Hurricane,AS
+928,1992,Severe Ice Storm,IA
+929,1992,Severe Ice Storm,MN
+930,1992,Flood,TX
+931,1992,Flood,PR
+932,1992,Flood,MH
+933,1992,Flood,DE
+934,1992,Typhoon,FM
+935,1992,Flood,CA
+936,1992,Severe Storm(s),NJ
+937,1992,Flood,TX
+938,1992,Flood,VT
+939,1992,Tornado,MS
+940,1992,Flood,ME
+941,1992,Flood,IL
+942,1992,Fire,CA
+944,1992,Flood,VA
+945,1992,Flood,NM
+946,1992,Severe Storm(s),MN
+948,1992,Severe Storm(s),SD
+949,1992,Tornado,TX
+950,1992,Severe Storm(s),AR
+951,1992,Severe Storm(s),OH
+952,1992,Flood,FL
+953,1992,Flood,IN
+954,1992,Flood,NE
+955,1992,Hurricane,FL
+956,1992,Hurricane,LA
+957,1992,Typhoon,GU
+958,1992,Fire,CA
+959,1992,Tornado,WI
+960,1992,Severe Storm(s),TX
+961,1992,Hurricane,HI
+962,1992,Severe Storm(s),IN
+963,1992,Tornado,WI
+964,1992,Flood,WI
+965,1993,Flood,IA
+966,1993,Severe Storm(s),FL
+967,1993,Tornado,MS
+968,1993,Tornado,MS
+969,1993,Tornado,GA
+970,1993,Tornado,TX
+971,1993,Typhoon,MH
+972,1993,Flood,CT
+973,1993,Flood,NJ
+974,1993,Flood,NY
+977,1993,Flood,AZ
+978,1993,Flood,LA
+979,1993,Flood,CA
+980,1993,Tornado,GA
+981,1993,Severe Storm(s),WA
+982,1993,Tornado,FL
+983,1993,Flood,NE
+986,1993,Flood,IA
+987,1993,Tornado,OK
+988,1993,Flood,ME
+989,1993,Flood,MO
+990,1993,Flood,VT
+991,1993,Severe Storm(s),OK
+992,1993,Flood,NM
+993,1993,Severe Storm(s),MN
+994,1993,Severe Storm(s),WI
+995,1993,Flood,MO
+996,1993,Flood,IA
+997,1993,Flood,IL
+998,1993,Flood,NE
+999,1993,Severe Storm(s),SD
+1000,1993,Flood,KS
+1001,1993,Flood,ND
+1002,1993,Severe Storm(s),IN
+1003,1993,Hurricane,NC
+1005,1994,Fire,CA
+1006,1994,Severe Storm(s),MO
+1007,1994,Severe Storm(s),VA
+1009,1994,Severe Storm(s),MS
+1010,1994,Severe Storm(s),TN
+1011,1994,Snow,AR
+1012,1994,Severe Storm(s),LA
+1013,1994,Severe Storm(s),AL
+1014,1994,Snow,VA
+1015,1994,Severe Storm(s),PA
+1016,1994,Snow,MD
+1017,1994,Severe Storm(s),DE
+1018,1994,Snow,KY
+1019,1994,Severe Storm(s),AL
+1020,1994,Tornado,GA
+1021,1994,Severe Storm(s),VA
+1022,1994,Flood,TN
+1023,1994,Severe Storm(s),MO
+1024,1994,Severe Storm(s),OK
+1025,1994,Severe Storm(s),IL
+1026,1994,Severe Storm(s),TX
+1027,1994,Snow,NE
+1029,1994,Flood,ME
+1030,1994,Severe Storm(s),DC
+1031,1994,Severe Storm(s),SD
+1032,1994,Severe Storm(s),ND
+1033,1994,Tornado,GA
+1034,1994,Severe Storm(s),AL
+1035,1994,Severe Storm(s),FL
+1039,1994,Severe Storm(s),AK
+1041,1995,Flood,TX
+1042,1995,Severe Storm(s),GA
+1043,1995,Severe Storm(s),FL
+1044,1995,Severe Storm(s),CA
+1045,1995,Snow,SD
+1046,1995,Severe Storm(s),CA
+1047,1995,Severe Storm(s),AL
+1049,1995,Severe Storm(s),LA
+1050,1995,Severe Storm(s),ND
+1051,1995,Severe Storm(s),MS
+1052,1995,Flood,SD
+1053,1995,Severe Storm(s),IL
+1054,1995,Severe Storm(s),MO
+1055,1995,Tornado,KY
+1056,1995,Severe Storm(s),TX
+1057,1995,Tornado,TN
+1058,1995,Tornado,OK
+1059,1995,Severe Storm(s),VA
+1060,1995,Severe Storm(s),WV
+1061,1995,Flood,OR
+1062,1995,Hurricane,FL
+1063,1995,Severe Storm(s),VT
+1064,1995,Severe Storm(s),MN
+1065,1995,Severe Storm(s),OH
+1066,1995,Severe Storm(s),OK
+1067,1995,Hurricane,VI
+1068,1995,Hurricane,PR
+1069,1996,Hurricane,FL
+1070,1996,Hurricane,AL
+1071,1996,Hurricane,GA
+1072,1996,Flood,AK
+1073,1996,Flood,NC
+1074,1996,Flood,FL
+1075,1996,Snow,SD
+1076,1996,Severe Storm(s),GA
+1077,1996,Flood,NH
+1078,1996,Snow,MN
+1079,1996,Severe Storm(s),WA
+1080,1996,Severe Storm(s),DC
+1081,1996,Snow,MD
+1082,1996,Snow,DE
+1083,1996,Snow,NY
+1084,1996,Snow,WV
+1085,1996,Snow,PA
+1086,1996,Snow,VA
+1087,1996,Snow,NC
+1088,1996,Snow,NJ
+1089,1996,Snow,KY
+1090,1996,Snow,MA
+1091,1996,Snow,RI
+1092,1996,Snow,CT
+1093,1996,Flood,PA
+1094,1996,Flood,MD
+1095,1996,Flood,NY
+1096,1996,Flood,WV
+1097,1996,Flood,OH
+1098,1996,Flood,VA
+1099,1996,Flood,OR
+1100,1996,Flood,WA
+1101,1996,Flood,VT
+1102,1996,Severe Storm(s),ID
+1103,1996,Snow,NC
+1104,1996,Severe Storm(s),AL
+1105,1996,Severe Storm(s),MT
+1106,1996,Severe Storm(s),ME
+1107,1996,Severe Storm(s),OR
+1108,1996,Severe Storm(s),AL
+1109,1996,Flood,IN
+1110,1996,Severe Storm(s),IL
+1111,1996,Severe Storm(s),AR
+1112,1996,Severe Storm(s),IL
+1113,1996,Severe Storm(s),MT
+1114,1996,Severe Storm(s),ME
+1115,1996,Flood,WV
+1116,1996,Flood,MN
+1117,1996,Severe Storm(s),KY
+1118,1996,Severe Storm(s),ND
+1119,1996,Fire,AK
+1120,1996,Flood,PA
+1121,1996,Severe Storm(s),IA
+1122,1996,Flood,OH
+1123,1996,Severe Storm(s),NE
+1124,1996,Flood,VT
+1125,1996,Severe Storm(s),IN
+1126,1996,Hurricane,VI
+1127,1996,Hurricane,NC
+1128,1996,Severe Storm(s),MI
+1129,1996,Severe Storm(s),IL
+1130,1996,Flood,PA
+1131,1996,Flood,WI
+1132,1996,Fire,WV
+1133,1996,Severe Storm(s),IA
+1134,1996,Hurricane,NC
+1135,1996,Hurricane,VA
+1136,1996,Hurricane,PR
+1137,1996,Severe Storm(s),WV
+1138,1996,Flood,PA
+1139,1996,Hurricane,MD
+1140,1996,Flood,SC
+1141,1997,Severe Storm(s),FL
+1142,1997,Flood,MA
+1143,1997,Flood,ME
+1144,1997,Flood,NH
+1145,1997,Severe Storm(s),NJ
+1146,1997,Severe Storm(s),NY
+1147,1997,Flood,HI
+1148,1997,Severe Storm(s),NY
+1149,1997,Flood,OR
+1150,1997,Flood,PA
+1151,1997,Severe Storm(s),MN
+1152,1997,Severe Ice Storm,WA
+1153,1997,Severe Storm(s),NV
+1154,1997,Severe Storm(s),ID
+1155,1997,Severe Storm(s),CA
+1156,1997,Severe Storm(s),SD
+1157,1997,Severe Storm(s),ND
+1158,1997,Severe Storm(s),MN
+1159,1997,Severe Storm(s),WA
+1160,1997,Severe Storm(s),OR
+1161,1997,Severe Storm(s),SD
+1162,1997,Severe Storm(s),AR
+1163,1997,Severe Storm(s),KY
+1164,1997,Severe Storm(s),OH
+1165,1997,Severe Storm(s),IN
+1166,1997,Typhoon,FM
+1167,1997,Tornado,TN
+1168,1997,Flood,WV
+1169,1997,Severe Storm(s),LA
+1170,1997,Severe Storm(s),IL
+1171,1997,Severe Storm(s),TN
+1172,1997,Flood,WA
+1173,1997,Flood,SD
+1174,1997,Flood,ND
+1175,1997,Flood,MN
+1176,1997,Flood,AR
+1177,1997,Severe Storm(s),ID
+1178,1997,Flood,MS
+1179,1997,Flood,TX
+1180,1997,Severe Storm(s),WI
+1181,1997,Severe Storm(s),MI
+1182,1997,Flood,WA
+1183,1997,Severe Storm(s),MT
+1184,1997,Flood,VT
+1185,1997,Severe Storm(s),AL
+1186,1997,Flood,CO
+1187,1997,Severe Storm(s),MN
+1188,1997,Severe Storm(s),IL
+1189,1997,Severe Storm(s),NJ
+1190,1998,Severe Storm(s),NE
+1191,1998,Snow,IA
+1192,1998,Typhoon,MP
+1193,1998,Typhoon,GU
+1194,1998,Typhoon,MP
+1195,1998,Severe Storm(s),FL
+1196,1998,Snow,NY
+1197,1998,Severe Storm(s),TN
+1198,1998,Severe Storm(s),ME
+1199,1998,Severe Storm(s),NH
+1200,1998,Severe Storm(s),NC
+1201,1998,Severe Storm(s),VT
+1202,1998,Severe Storm(s),NM
+1203,1998,Severe Storm(s),CA
+1204,1998,Severe Storm(s),FL
+1205,1998,Severe Storm(s),DE
+1207,1998,Severe Storm(s),KY
+1208,1998,Severe Storm(s),AL
+1209,1998,Severe Storm(s),GA
+1210,1998,Drought,MH
+1211,1998,Severe Storm(s),NC
+1212,1998,Tornado,MN
+1213,1998,Drought,FM
+1214,1998,Severe Storm(s),AL
+1215,1998,Severe Storm(s),TN
+1216,1998,Severe Storm(s),KY
+1217,1998,Severe Storm(s),IN
+1218,1998,Flood,SD
+1219,1998,Severe Storm(s),PA
+1220,1998,Flood,ND
+1221,1998,Flood,OR
+1222,1998,Severe Storm(s),NY
+1223,1998,Fire,FL
+1224,1998,Flood,MA
+1225,1998,Tornado,MN
+1226,1998,Severe Storm(s),MI
+1227,1998,Severe Storm(s),OH
+1228,1998,Severe Storm(s),VT
+1229,1998,Severe Storm(s),WV
+1230,1998,Flood,IA
+1231,1998,Severe Storm(s),NH
+1232,1998,Severe Storm(s),ME
+1233,1998,Severe Storm(s),NY
+1234,1998,Severe Storm(s),IN
+1235,1998,Severe Storm(s),TN
+1236,1998,Severe Storm(s),WI
+1237,1998,Severe Storm(s),MI
+1238,1998,Severe Storm(s),WI
+1239,1998,Severe Storm(s),TX
+1240,1998,Hurricane,NC
+1241,1998,Hurricane,FL
+1242,1998,Hurricane,VA
+1243,1998,Hurricane,SC
+1244,1998,Severe Storm(s),NY
+1245,1998,Severe Storm(s),TX
+1246,1998,Hurricane,LA
+1247,1998,Hurricane,PR
+1248,1998,Hurricane,VI
+1249,1998,Hurricane,FL
+1250,1998,Hurricane,AL
+1251,1999,Hurricane,MS
+1252,1999,Severe Storm(s),WA
+1253,1999,Severe Storm(s),MO
+1254,1999,Severe Storm(s),KS
+1256,1999,Severe Storm(s),MO
+1257,1999,Flood,TX
+1258,1999,Severe Storm(s),KS
+1259,1999,Severe Storm(s),FL
+1260,1999,Severe Storm(s),TN
+1261,1999,Severe Storm(s),AL
+1262,1999,Severe Storm(s),TN
+1263,1999,Severe Storm(s),ME
+1264,1999,Severe Storm(s),LA
+1265,1999,Severe Ice Storm,MS
+1266,1999,Severe Storm(s),AR
+1268,1999,Severe Ice Storm,WY
+1269,1999,Severe Storm(s),LA
+1270,1999,Severe Storm(s),MO
+1271,1999,Severe Storm(s),GA
+1272,1999,Tornado,OK
+1273,1999,Tornado,KS
+1274,1999,Tornado,TX
+1275,1999,Severe Storm(s),TN
+1276,1999,Severe Storm(s),CO
+1277,1999,Severe Storm(s),IA
+1278,1999,Severe Storm(s),IL
+1279,1999,Flood,ND
+1280,1999,Tornado,SD
+1281,1999,Severe Storm(s),NV
+1282,1999,Severe Storm(s),IA
+1283,1999,Severe Storm(s),MN
+1284,1999,Flood,WI
+1285,1999,Tornado,UT
+1286,1999,Severe Storm(s),NE
+1287,1999,Hurricane,TX
+1288,1999,Severe Ice Storm,MN
+1289,1999,Severe Storm(s),PA
+1290,1999,Hurricane,VA
+1291,1999,Hurricane,NC
+1292,1999,Hurricane,NC
+1293,1999,Hurricane,VA
+1294,1999,Hurricane,PA
+1295,1999,Hurricane,NJ
+1296,1999,Hurricane,NY
+1297,1999,Hurricane,DE
+1298,1999,Flood,PA
+1299,1999,Hurricane,SC
+1300,1999,Hurricane,FL
+1301,1999,Severe Storm(s),NM
+1302,1999,Hurricane,CT
+1303,1999,Hurricane,MD
+1304,2000,Severe Storm(s),AZ
+1305,2000,Hurricane,NH
+1306,2000,Hurricane,FL
+1307,2000,Severe Storm(s),VT
+1308,2000,Hurricane,ME
+1309,2000,Hurricane,VI
+1310,2000,Tornado,KY
+1311,2000,Severe Storm(s),GA
+1312,2000,Severe Storm(s),NC
+1313,2000,Severe Storm(s),SC
+1314,2000,Snow,LA
+1315,2000,Severe Storm(s),GA
+1316,2000,Severe Storm(s),AK
+1317,2000,Severe Storm(s),AL
+1318,2000,Severe Storm(s),VA
+1319,2000,Flood,WV
+1320,2000,Severe Storm(s),KY
+1321,2000,Severe Storm(s),OH
+1322,2000,Severe Storm(s),AL
+1323,2000,Tornado,TX
+1324,2000,Severe Storm(s),MD
+1325,2000,Severe Storm(s),DC
+1326,2000,Severe Storm(s),ME
+1327,2000,Severe Storm(s),KS
+1328,2000,Flood,MO
+1329,2000,Fire,NM
+1330,2000,Severe Storm(s),SD
+1331,2000,Severe Storm(s),TN
+1332,2000,Severe Storm(s),WI
+1333,2000,Severe Storm(s),MN
+1334,2000,Severe Storm(s),ND
+1335,2000,Severe Storm(s),NY
+1336,2000,Severe Storm(s),VT
+1337,2000,Severe Storm(s),NJ
+1338,2000,Severe Storm(s),DC
+1339,2000,Severe Storm(s),OH
+1340,2000,Fire,MT
+1341,2000,Fire,ID
+1343,2000,Severe Storm(s),OH
+1344,2001,Severe Storm(s),FL
+1345,2001,Severe Storm(s),FL
+1346,2001,Severe Storm(s),MI
+1347,2001,Severe Storm(s),AZ
+1348,2001,Severe Storm(s),HI
+1349,2001,Severe Storm(s),OK
+1350,2001,Severe Storm(s),MT
+1351,2001,Severe Storm(s),WY
+1352,2001,Severe Storm(s),AL
+1353,2001,Tornado,ND
+1354,2001,Severe Ice Storm,AR
+1355,2001,Severe Ice Storm,OK
+1356,2001,Severe Ice Storm,TX
+1357,2001,Severe Ice Storm,LA
+1358,2001,Severe Storm(s),VT
+1360,2001,Severe Storm(s),MS
+1362,2001,Severe Storm(s),AL
+1363,2001,Severe Storm(s),AR
+1364,2001,Severe Storm(s),MA
+1365,2001,Severe Storm(s),MS
+1366,2001,Severe Storm(s),KS
+1367,2001,Severe Storm(s),IA
+1368,2001,Flood,IL
+1369,2001,Flood,WI
+1370,2001,Flood,MN
+1371,2001,Severe Storm(s),ME
+1372,2001,Severe Storm(s),PR
+1373,2001,Severe Storm(s),NE
+1374,2001,Severe Storm(s),CO
+1375,2001,Flood,SD
+1376,2001,Flood,ND
+1377,2001,Severe Storm(s),MT
+1378,2001,Severe Storm(s),WV
+1381,2001,Severe Storm(s),FL
+1382,2001,Severe Storm(s),MS
+1383,2001,Severe Storm(s),PA
+1384,2001,Severe Storm(s),OK
+1385,2001,Severe Storm(s),MT
+1386,2001,Severe Storm(s),VA
+1387,2001,Severe Storm(s),TN
+1388,2001,Severe Storm(s),KY
+1389,2001,Severe Storm(s),DC
+1390,2001,Severe Storm(s),OH
+1391,2001,Fire,NY
+1394,2002,Severe Storm(s),NE
+1395,2002,Severe Storm(s),OK
+1396,2002,Severe Storm(s),PR
+1398,2002,Severe Storm(s),MS
+1399,2002,Severe Storm(s),AL
+1400,2002,Severe Storm(s),AR
+1401,2002,Severe Ice Storm,OK
+1402,2002,Severe Ice Storm,KS
+1403,2002,Severe Ice Storm,MO
+1404,2002,Snow,NY
+1405,2002,Severe Storm(s),OR
+1406,2002,Severe Storm(s),VA
+1407,2002,Severe Storm(s),KY
+1408,2002,Severe Storm(s),TN
+1409,2002,Tornado,MD
+1410,2002,Severe Storm(s),WV
+1411,2002,Severe Storm(s),VA
+1412,2002,Severe Storm(s),MO
+1413,2002,Flood,MI
+1414,2002,Severe Storm(s),KY
+1416,2002,Tornado,IL
+1417,2002,Typhoon,FM
+1418,2002,Severe Storm(s),IN
+1419,2002,Severe Storm(s),MN
+1420,2002,Flood,IA
+1421,2002,Fire,CO
+1422,2002,Fire,AZ
+1423,2002,Flood,AK
+1424,2002,Severe Storm(s),MT
+1425,2002,Flood,TX
+1426,2002,Typhoon,GU
+1427,2002,Typhoon,FM
+1428,2002,Severe Storm(s),VT
+1429,2002,Severe Storm(s),WI
+1430,2002,Typhoon,MP
+1431,2002,Severe Storm(s),ND
+1432,2002,Tornado,WI
+1433,2002,Severe Storm(s),IN
+1435,2002,Hurricane,LA
+1436,2003,Hurricane,MS
+1437,2003,Hurricane,LA
+1438,2003,Hurricane,AL
+1439,2003,Severe Storm(s),TX
+1441,2003,Severe Storm(s),TN
+1442,2003,Severe Storm(s),AL
+1443,2003,Severe Storm(s),MS
+1444,2003,Severe Storm(s),OH
+1445,2003,Severe Storm(s),AK
+1446,2003,Typhoon,GU
+1447,2003,Typhoon,MP
+1448,2003,Severe Ice Storm,NC
+1449,2003,Typhoon,FM
+1450,2003,Severe Ice Storm,AR
+1451,2003,Severe Ice Storm,SC
+1452,2003,Severe Ice Storm,OK
+1453,2003,Severe Storm(s),OH
+1454,2003,Severe Storm(s),KY
+1455,2003,Severe Storm(s),WV
+1456,2003,Severe Storm(s),TN
+1457,2003,Severe Ice Storm,NC
+1458,2003,Severe Storm(s),VA
+1459,2003,Severe Storm(s),MS
+1460,2003,Severe Storm(s),FL
+1461,2003,Severe Storm(s),AK
+1462,2003,Severe Storm(s),KS
+1463,2003,Severe Storm(s),MO
+1464,2003,Severe Storm(s),TN
+1465,2003,Severe Storm(s),OK
+1466,2003,Severe Storm(s),AL
+1467,2003,Severe Ice Storm,NY
+1469,2003,Severe Storm(s),IL
+1470,2003,Severe Storm(s),MS
+1471,2003,Severe Storm(s),KY
+1472,2003,Severe Storm(s),AR
+1473,2003,Severe Storm(s),AS
+1474,2003,Severe Storm(s),WV
+1475,2003,Severe Storm(s),KY
+1476,2003,Severe Storm(s),IN
+1477,2003,Fire,AZ
+1478,2003,Severe Storm(s),OH
+1479,2003,Hurricane,TX
+1480,2003,Severe Storm(s),NE
+1481,2003,Severe Storm(s),FL
+1482,2003,Severe Storm(s),TN
+1483,2003,Severe Storm(s),ND
+1484,2003,Tornado,OH
+1485,2003,Severe Storm(s),PA
+1486,2003,Severe Storm(s),NY
+1487,2003,Severe Storm(s),IN
+1488,2003,Severe Storm(s),VT
+1489,2003,Severe Storm(s),NH
+1490,2003,Hurricane,NC
+1491,2003,Hurricane,VA
+1492,2003,Hurricane,MD
+1493,2003,Hurricane,DC
+1494,2003,Hurricane,DE
+1495,2003,Hurricane,DE
+1496,2003,Hurricane,WV
+1497,2003,Severe Storm(s),PA
+1498,2004,Fire,CA
+1499,2004,Severe Storm(s),WA
+1500,2004,Severe Storm(s),WV
+1501,2004,Severe Storm(s),PR
+1502,2004,Severe Storm(s),VA
+1503,2004,Severe Storm(s),VI
+1504,2004,Typhoon,FM
+1506,2004,Typhoon,AS
+1507,2004,Severe Storm(s),OH
+1508,2004,Severe Storm(s),ME
+1509,2004,Severe Ice Storm,SC
+1510,2004,Severe Storm(s),OR
+1511,2004,Typhoon,FM
+1512,2004,Flood,MA
+1513,2004,Severe Storm(s),IL
+1514,2004,Severe Storm(s),NM
+1515,2004,Severe Storm(s),ND
+1516,2004,Severe Storm(s),AR
+1517,2004,Severe Storm(s),NE
+1518,2004,Severe Storm(s),IA
+1519,2004,Severe Storm(s),OH
+1520,2004,Severe Storm(s),IN
+1521,2004,Severe Storm(s),LA
+1522,2004,Severe Storm(s),WV
+1523,2004,Severe Storm(s),KY
+1524,2004,Severe Storm(s),MO
+1525,2004,Severe Storm(s),VA
+1526,2004,Severe Storm(s),WI
+1527,2004,Severe Storm(s),MI
+1528,2004,Severe Storm(s),AR
+1530,2004,Severe Storm(s),NJ
+1531,2004,Severe Storm(s),SD
+1532,2004,Typhoon,MP
+1533,2004,Severe Storm(s),GU
+1534,2004,Severe Storm(s),NY
+1535,2004,Severe Storm(s),KS
+1536,2004,Severe Storm(s),WV
+1537,2004,Severe Storm(s),KY
+1538,2004,Severe Storm(s),PA
+1539,2004,Hurricane,FL
+1540,2004,Fire,NV
+1541,2004,Typhoon,MP
+1542,2004,Severe Storm(s),IN
+1543,2004,Hurricane,SC
+1544,2004,Severe Storm(s),VA
+1545,2004,Hurricane,FL
+1546,2004,Hurricane,NC
+1547,2004,Severe Storm(s),SC
+1548,2004,Hurricane,LA
+1549,2004,Hurricane,AL
+1550,2004,Hurricane,MS
+1551,2004,Hurricane,FL
+1552,2004,Severe Storm(s),PR
+1553,2004,Hurricane,NC
+1554,2004,Hurricane,GA
+1555,2004,Severe Storm(s),PA
+1556,2004,Severe Storm(s),OH
+1557,2004,Hurricane,PA
+1558,2004,Severe Storm(s),WV
+1559,2004,Severe Storm(s),VT
+1560,2004,Hurricane,GA
+1561,2004,Hurricane,FL
+1562,2004,Severe Storm(s),KS
+1563,2005,Severe Storm(s),NJ
+1564,2005,Severe Storm(s),NY
+1565,2005,Severe Storm(s),NY
+1566,2005,Hurricane,SC
+1567,2005,Hurricane,VI
+1568,2005,Severe Storm(s),TN
+1569,2005,Severe Storm(s),MN
+1570,2005,Severe Storm(s),VA
+1571,2005,Severe Storm(s),AK
+1572,2005,Severe Storm(s),DE
+1573,2005,Severe Storm(s),IN
+1574,2005,Severe Storm(s),WV
+1575,2005,Severe Storm(s),HI
+1576,2005,Severe Storm(s),UT
+1577,2005,Severe Storm(s),CA
+1578,2005,Snow,KY
+1579,2005,Severe Storm(s),KS
+1580,2005,Severe Storm(s),OH
+1581,2005,Severe Storm(s),AZ
+1582,2005,Typhoon,AS
+1583,2005,Severe Storm(s),NV
+1584,2005,Severe Storm(s),AK
+1585,2005,Severe Storm(s),CA
+1586,2005,Severe Storm(s),AZ
+1587,2005,Severe Storm(s),PA
+1588,2005,Severe Storm(s),NJ
+1589,2005,Severe Storm(s),NY
+1590,2005,Severe Storm(s),NE
+1591,2005,Severe Storm(s),ME
+1592,2005,Flood,ID
+1593,2005,Hurricane,AL
+1594,2005,Hurricane,MS
+1595,2005,Hurricane,FL
+1596,2005,Severe Storm(s),SD
+1597,2005,Severe Storm(s),ND
+1598,2005,Flood,UT
+1599,2005,Tornado,WY
+1600,2005,Severe Storm(s),KS
+1601,2005,Severe Storm(s),LA
+1602,2005,Hurricane,FL
+1603,2005,Hurricane,LA
+1604,2005,Hurricane,MS
+1605,2005,Hurricane,AL
+1606,2005,Hurricane,TX
+1607,2005,Hurricane,LA
+1608,2006,Hurricane,NC
+1609,2006,Hurricane,FL
+1610,2006,Severe Storm(s),NH
+1611,2006,Typhoon,MP
+1612,2006,Tornado,IN
+1613,2006,Severe Storm(s),PR
+1614,2006,Severe Storm(s),MA
+1615,2006,Severe Storm(s),KS
+1616,2006,Snow,ND
+1617,2006,Severe Storm(s),KY
+1618,2006,Severe Storm(s),AK
+1619,2006,Severe Storm(s),CT
+1620,2006,Severe Storm(s),SD
+1621,2006,Severe Storm(s),ND
+1622,2006,Severe Storm(s),MN
+1623,2006,Fire,OK
+1624,2006,Fire,TX
+1625,2006,Severe Ice Storm,SC
+1626,2006,Severe Storm(s),KS
+1627,2006,Severe Storm(s),NE
+1628,2006,Severe Storm(s),CA
+1629,2006,Severe Storm(s),NV
+1630,2006,Severe Storm(s),ID
+1631,2006,Severe Storm(s),MO
+1632,2006,Severe Storm(s),OR
+1633,2006,Severe Storm(s),IL
+1634,2006,Severe Storm(s),TN
+1635,2006,Severe Storm(s),MO
+1636,2006,Severe Storm(s),AR
+1637,2006,Severe Storm(s),OK
+1638,2006,Severe Storm(s),KS
+1640,2006,Severe Storm(s),HI
+1641,2006,Severe Storm(s),WA
+1642,2006,Severe Storm(s),MA
+1643,2006,Severe Storm(s),NH
+1644,2006,Severe Storm(s),ME
+1645,2006,Severe Storm(s),ND
+1646,2006,Severe Storm(s),CA
+1647,2006,Severe Storm(s),SD
+1648,2006,Flood,MN
+1649,2006,Severe Storm(s),PA
+1650,2006,Severe Storm(s),NY
+1651,2006,Severe Storm(s),OH
+1652,2006,Severe Storm(s),MD
+1653,2006,Severe Storm(s),NJ
+1654,2006,Severe Storm(s),DE
+1655,2006,Severe Storm(s),VA
+1656,2006,Severe Storm(s),OH
+1657,2006,Flood,AK
+1658,2006,Severe Storm(s),TX
+1659,2006,Severe Storm(s),NM
+1660,2006,Severe Storm(s),AZ
+1661,2006,Severe Storm(s),VA
+1662,2007,Severe Storm(s),IN
+1663,2007,Severe Storm(s),AK
+1665,2007,Severe Storm(s),NY
+1666,2007,Fire,AK
+1667,2007,Severe Storm(s),MO
+1668,2007,Severe Storm(s),LA
+1669,2007,Severe Storm(s),AK
+1670,2007,Severe Storm(s),NY
+1671,2007,Severe Storm(s),WA
+1672,2007,Severe Storm(s),OR
+1673,2007,Severe Storm(s),MO
+1674,2007,Severe Storm(s),NE
+1675,2007,Severe Storm(s),KS
+1676,2007,Severe Ice Storm,MO
+1677,2007,Severe Storm(s),OK
+1678,2007,Severe Storm(s),OK
+1679,2007,Severe Storm(s),FL
+1680,2007,Severe Storm(s),FL
+1681,2007,Severe Ice Storm,IL
+1682,2007,Severe Storm(s),WA
+1683,2007,Severe Storm(s),OR
+1684,2007,Severe Storm(s),PA
+1685,2007,Severe Storm(s),LA
+1686,2007,Severe Storm(s),GA
+1687,2007,Severe Storm(s),AL
+1688,2007,Severe Storm(s),IA
+1690,2007,Severe Storm(s),NM
+1691,2007,Flood,ME
+1692,2007,Severe Storm(s),NY
+1693,2007,Severe Storm(s),ME
+1694,2007,Severe Storm(s),NJ
+1695,2007,Severe Storm(s),NH
+1696,2007,Severe Storm(s),WV
+1697,2007,Severe Storm(s),TX
+1698,2007,Severe Storm(s),VT
+1699,2007,Severe Storm(s),KS
+1700,2007,Severe Storm(s),CT
+1701,2007,Severe Storm(s),MA
+1702,2007,Severe Storm(s),SD
+1703,2007,Severe Storm(s),KY
+1704,2007,Severe Storm(s),RI
+1705,2007,Severe Storm(s),IA
+1706,2007,Severe Storm(s),NE
+1707,2007,Severe Storm(s),OK
+1708,2007,Severe Storm(s),MO
+1709,2007,Severe Storm(s),TX
+1710,2007,Severe Storm(s),NY
+1711,2007,Severe Storm(s),KS
+1712,2007,Severe Storm(s),OK
+1713,2007,Severe Storm(s),ND
+1714,2007,Severe Storm(s),NE
+1715,2007,Severe Storm(s),VT
+1716,2007,Severe Storm(s),ME
+1717,2007,Severe Storm(s),MN
+1718,2007,Severe Storm(s),OK
+1719,2007,Severe Storm(s),WI
+1720,2007,Severe Storm(s),OH
+1721,2007,Severe Storm(s),NE
+1722,2007,Severe Storm(s),IL
+1723,2007,Severe Storm(s),OK
+1724,2007,Severe Storm(s),NY
+1725,2007,Severe Storm(s),ND
+1726,2007,Severe Storm(s),ND
+1727,2007,Severe Storm(s),IA
+1728,2007,Severe Storm(s),MO
+1729,2007,Severe Storm(s),IL
+1730,2008,Severe Storm(s),TX
+1731,2008,Fire,CA
+1732,2008,Severe Storm(s),IN
+1733,2008,Severe Storm(s),OR
+1734,2008,Severe Storm(s),WA
+1735,2008,Severe Ice Storm,OK
+1736,2008,Severe Ice Storm,MO
+1737,2008,Severe Ice Storm,IA
+1738,2008,Severe Storm(s),NV
+1739,2008,Severe Ice Storm,NE
+1740,2008,Severe Storm(s),IN
+1741,2008,Severe Storm(s),KS
+1742,2008,Severe Storm(s),MO
+1743,2008,Severe Storm(s),HI
+1744,2008,Severe Storm(s),AR
+1745,2008,Severe Storm(s),TN
+1746,2008,Severe Storm(s),KY
+1747,2008,Severe Storm(s),IL
+1748,2008,Severe Ice Storm,MO
+1749,2008,Severe Storm(s),MO
+1750,2008,Severe Storm(s),GA
+1751,2008,Severe Storm(s),AR
+1752,2008,Severe Storm(s),OK
+1753,2008,Severe Storm(s),MS
+1754,2008,Flood,OK
+1755,2008,Flood,ME
+1756,2008,Severe Storm(s),OK
+1757,2008,Severe Storm(s),KY
+1758,2008,Severe Storm(s),AR
+1759,2008,Snow,SD
+1760,2008,Severe Storm(s),MO
+1761,2008,Severe Storm(s),GA
+1762,2008,Severe Storm(s),CO
+1763,2008,Severe Storm(s),IA
+1764,2008,Severe Storm(s),MS
+1765,2008,Severe Storm(s),NE
+1766,2008,Severe Storm(s),IN
+1767,2008,Severe Storm(s),MT
+1768,2008,Severe Storm(s),WI
+1769,2008,Severe Storm(s),WV
+1770,2008,Severe Storm(s),NE
+1771,2008,Severe Storm(s),IL
+1772,2008,Severe Storm(s),MN
+1773,2008,Severe Storm(s),MO
+1774,2008,Severe Storm(s),SD
+1775,2008,Severe Storm(s),OK
+1776,2008,Severe Storm(s),KS
+1777,2008,Severe Storm(s),MI
+1778,2008,Severe Storm(s),VT
+1779,2008,Severe Storm(s),NE
+1780,2008,Hurricane,TX
+1781,2008,Flood,ID
+1782,2008,Severe Storm(s),NH
+1783,2008,Severe Storm(s),NM
+1784,2008,Severe Storm(s),VT
+1785,2008,Severe Storm(s),FL
+1786,2008,Hurricane,LA
+1787,2008,Severe Storm(s),NH
+1788,2008,Severe Storm(s),ME
+1789,2008,Hurricane,AL
+1790,2008,Severe Storm(s),VT
+1791,2008,Hurricane,TX
+1792,2008,Hurricane,LA
+1793,2008,Hurricane,AR
+1794,2008,Hurricane,MS
+1795,2008,Severe Storm(s),IN
+1796,2008,Severe Storm(s),AK
+1797,2008,Severe Storm(s),AL
+1798,2009,Severe Storm(s),PR
+1799,2009,Severe Storm(s),NH
+1800,2009,Severe Storm(s),IL
+1801,2009,Severe Storm(s),NC
+1802,2009,Severe Storm(s),KY
+1803,2009,Severe Storm(s),OK
+1804,2009,Severe Storm(s),AR
+1805,2009,Severe Storm(s),OH
+1806,2009,Hurricane,FL
+1807,2009,Hurricane,VI
+1808,2009,Severe Storm(s),KS
+1809,2009,Severe Storm(s),MO
+1810,2009,Fire,CA
+1811,2009,Snow,SD
+1812,2009,Severe Ice Storm,NH
+1813,2009,Severe Ice Storm,MA
+1814,2009,Flood,HI
+1815,2009,Severe Storm(s),ME
+1816,2009,Severe Ice Storm,VT
+1817,2009,Flood,WA
+1818,2009,Severe Ice Storm,KY
+1819,2009,Severe Storm(s),AR
+1820,2009,Severe Storm(s),OK
+1821,2009,Severe Ice Storm,TN
+1822,2009,Severe Storm(s),MO
+1823,2009,Severe Storm(s),OK
+1824,2009,Severe Storm(s),OR
+1825,2009,Severe Storm(s),WA
+1826,2009,Severe Storm(s),IL
+1827,2009,Severe Storm(s),NY
+1828,2009,Severe Storm(s),IN
+1829,2009,Severe Storm(s),ND
+1830,2009,Severe Storm(s),MN
+1831,2009,Severe Storm(s),FL
+1832,2009,Severe Storm(s),IN
+1833,2009,Severe Storm(s),GA
+1834,2009,Tornado,AR
+1835,2009,Severe Storm(s),AL
+1836,2009,Severe Storm(s),AL
+1837,2009,Severe Storm(s),MS
+1838,2009,Severe Storm(s),WV
+1839,2009,Severe Storm(s),TN
+1840,2009,Severe Storm(s),FL
+1841,2009,Severe Storm(s),KY
+1842,2009,Severe Storm(s),AL
+1843,2009,Flood,AK
+1844,2009,Severe Storm(s),SD
+1845,2009,Severe Storm(s),AR
+1846,2009,Fire,OK
+1847,2009,Severe Storm(s),MO
+1848,2009,Severe Storm(s),KS
+1849,2009,Severe Storm(s),KS
+1850,2009,Severe Storm(s),IL
+1851,2009,Severe Storm(s),TN
+1852,2009,Severe Storm(s),ME
+1853,2009,Severe Storm(s),NE
+1854,2009,Severe Storm(s),IA
+1855,2009,Severe Storm(s),KY
+1856,2009,Severe Storm(s),TN
+1857,2009,Severe Storm(s),NY
+1858,2009,Severe Storm(s),GA
+1860,2009,Severe Storm(s),KS
+1861,2010,Severe Storm(s),AR
+1862,2010,Severe Storm(s),VA
+1863,2010,Severe Storm(s),LA
+1864,2010,Severe Storm(s),NE
+1865,2010,Severe Storm(s),AK
+1866,2010,Hurricane,AL
+1867,2010,Severe Storm(s),NJ
+1868,2010,Severe Storm(s),KS
+1869,2010,Severe Storm(s),NY
+1870,2010,Severe Storm(s),AL
+1871,2010,Severe Storm(s),NC
+1872,2010,Severe Storm(s),AR
+1873,2010,Snow,NJ
+1874,2010,Snow,VA
+1875,2010,Snow,MD
+1876,2010,Severe Storm(s),OK
+1877,2010,Severe Storm(s),IA
+1878,2010,Severe Storm(s),NE
+1879,2010,Severe Storm(s),ND
+1880,2010,Severe Storm(s),IA
+1881,2010,Snow,WV
+1882,2010,Snow,DC
+1883,2010,Severe Ice Storm,OK
+1884,2010,Severe Storm(s),CA
+1885,2010,Severe Storm(s),KS
+1886,2010,Severe Storm(s),SD
+1887,2010,Severe Storm(s),SD
+1888,2010,Severe Storm(s),AZ
+1889,2010,Snow,NJ
+1890,2010,Severe Storm(s),DC
+1891,2010,Severe Storm(s),ME
+1892,2010,Severe Storm(s),NH
+1893,2010,Severe Storm(s),WV
+1894,2010,Severe Storm(s),RI
+1895,2010,Severe Storm(s),MA
+1896,2010,Snow,DE
+1897,2010,Severe Storm(s),NJ
+1898,2010,Snow,PA
+1899,2010,Severe Storm(s),NY
+1900,2010,Flood,MN
+1901,2010,Severe Storm(s),ND
+1902,2010,Flood,NE
+1903,2010,Snow,WV
+1904,2010,Severe Storm(s),CT
+1905,2010,Snow,VA
+1906,2010,Severe Storm(s),MS
+1907,2010,Flood,ND
+1908,2010,Severe Storm(s),AL
+1909,2010,Severe Storm(s),TN
+1910,2010,Snow,MD
+1912,2010,Severe Storm(s),KY
+1913,2010,Severe Storm(s),NH
+1914,2010,Severe Storm(s),SD
+1915,2010,Flood,SD
+1916,2010,Severe Storm(s),MS
+1917,2010,Severe Storm(s),OK
+1918,2010,Flood,WV
+1919,2010,Severe Storm(s),PR
+1920,2010,Severe Storm(s),ME
+1921,2010,Tornado,MN
+1922,2010,Severe Storm(s),MT
+1923,2010,Flood,WY
+1924,2010,Severe Storm(s),NE
+1925,2010,Severe Storm(s),KY
+1926,2010,Severe Storm(s),OK
+1927,2010,Severe Storm(s),ID
+1928,2010,Severe Storm(s),IA
+1929,2010,Severe Storm(s),SD
+1930,2010,Severe Storm(s),IA
+1931,2010,Hurricane,TX
+1932,2010,Severe Storm(s),KS
+1933,2010,Severe Storm(s),WI
+1934,2010,Severe Storm(s),MO
+1935,2010,Severe Storm(s),IL
+1936,2010,Flood,NM
+1937,2010,Severe Storm(s),TN
+1938,2010,Severe Storm(s),SD
+1939,2010,Hurricane,VI
+1940,2011,Severe Storm(s),AZ
+1941,2011,Severe Storm(s),MN
+1942,2011,Severe Storm(s),NC
+1943,2011,Tornado,NY
+1944,2011,Severe Storm(s),WI
+1945,2011,Severe Storm(s),NE
+1946,2011,Severe Storm(s),PR
+1947,2011,Severe Storm(s),SD
+1948,2011,Severe Storm(s),VI
+1949,2011,Severe Storm(s),VI
+1950,2011,Severe Storm(s),AZ
+1951,2011,Severe Storm(s),VT
+1952,2011,Flood,CA
+1953,2011,Severe Storm(s),ME
+1954,2011,Snow,NJ
+1955,2011,Flood,UT
+1956,2011,Severe Storm(s),OR
+1957,2011,Severe Storm(s),NY
+1958,2011,Snow,CT
+1959,2011,Snow,MA
+1960,2011,Snow,IL
+1961,2011,Severe Storm(s),MO
+1962,2011,Severe Storm(s),NM
+1963,2011,Severe Storm(s),WA
+1965,2011,Severe Storm(s),TN
+1966,2011,Snow,WI
+1969,2011,Severe Storm(s),NC
+1970,2011,Severe Storm(s),OK
+1971,2011,Severe Storm(s),AL
+1972,2011,Severe Storm(s),MS
+1973,2011,Severe Storm(s),GA
+1974,2011,Severe Storm(s),TN
+1975,2011,Severe Storm(s),AR
+1976,2011,Severe Storm(s),KY
+1977,2011,Severe Storm(s),IA
+1978,2011,Severe Storm(s),TN
+1979,2011,Severe Storm(s),TN
+1980,2011,Severe Storm(s),MO
+1981,2011,Flood,ND
+1982,2011,Flood,MN
+1983,2011,Flood,MS
+1984,2011,Flood,SD
+1985,2011,Severe Storm(s),OK
+1986,2011,Severe Storm(s),ND
+1987,2011,Flood,ID
+1988,2011,Severe Storm(s),OK
+1989,2011,Severe Storm(s),OK
+1990,2011,Severe Storm(s),MN
+1991,2011,Severe Storm(s),IL
+1992,2011,Flood,AK
+1993,2011,Flood,NY
+1994,2011,Tornado,MA
+1995,2011,Severe Storm(s),VT
+1996,2011,Severe Storm(s),MT
+1997,2011,Severe Storm(s),IN
+1998,2011,Flood,IA
+1999,2011,Fire,TX
+2195,1998,Fire,HI
+2225,1998,Fire,WA
+2249,1999,Fire,TX
+2250,1999,Fire,TN
+2251,1999,Fire,FL
+2252,1999,Fire,FL
+2253,1999,Fire,FL
+2254,1999,Fire,FL
+2255,1999,Fire,FL
+2256,1999,Fire,FL
+2257,1999,Fire,FL
+2258,1999,Fire,FL
+2259,1999,Fire,FL
+2260,1999,Fire,FL
+2261,1999,Fire,MI
+2262,1999,Fire,FL
+2263,1999,Fire,AZ
+2265,1999,Fire,NV
+2266,1999,Fire,MT
+2269,1999,Fire,NY
+2270,1999,Fire,TX
+2272,1999,Fire,TX
+2273,1999,Fire,TX
+2274,1999,Fire,TX
+2275,1999,Fire,TX
+2276,1999,Fire,AL
+2277,1999,Fire,AL
+2278,1999,Fire,AL
+2279,1999,Fire,AL
+2280,1999,Fire,AL
+2281,1999,Fire,AL
+2282,1999,Fire,TX
+2283,1999,Fire,AL
+2284,1999,Fire,TX
+2285,1999,Fire,TX
+2286,2000,Fire,TX
+2287,2000,Fire,TX
+2288,2000,Fire,KY
+2289,2000,Fire,TX
+2290,2000,Fire,TX
+2291,2000,Fire,TX
+2292,2000,Fire,MO
+2293,2000,Fire,HI
+2294,2000,Fire,FL
+2295,2000,Fire,NM
+2296,2000,Fire,NM
+2297,2000,Fire,NM
+2298,2000,Fire,FL
+2299,2000,Fire,FL
+2300,2000,Fire,FL
+2301,2000,Fire,FL
+2302,2000,Fire,FL
+2303,2000,Fire,FL
+2304,2000,Fire,NM
+2305,2000,Fire,FL
+2306,2000,Fire,FL
+2307,2000,Fire,FL
+2308,2000,Fire,CO
+2309,2000,Fire,CO
+2310,2000,Fire,NM
+2311,2000,Fire,WA
+2312,2000,Fire,NV
+2313,2000,Fire,WA
+2314,2000,Fire,MT
+2315,2000,Fire,WY
+2316,2000,Fire,NV
+2317,2000,Fire,MT
+2318,2000,Fire,MT
+2319,2000,Fire,SD
+2320,2000,Fire,MT
+2321,2000,Fire,MT
+2322,2000,Fire,TX
+2323,2000,Fire,WA
+2324,2000,Fire,SD
+2325,2000,Fire,TX
+2326,2000,Fire,MT
+2327,2000,Fire,TX
+2328,2000,Fire,TX
+2329,2000,Fire,TX
+2330,2000,Fire,TX
+2331,2000,Fire,TX
+2332,2000,Fire,TX
+2333,2000,Fire,TX
+2334,2000,Fire,TX
+2335,2000,Fire,TX
+2336,2000,Fire,TX
+2337,2000,Fire,LA
+2338,2000,Fire,CO
+2339,2000,Fire,AL
+2340,2000,Fire,TX
+2341,2000,Fire,OK
+2342,2000,Fire,OK
+2343,2000,Fire,OK
+2344,2001,Fire,TX
+2345,2001,Fire,MN
+2346,2001,Fire,TN
+2347,2001,Fire,TN
+2348,2001,Fire,TN
+2349,2001,Fire,KY
+2350,2001,Fire,KY
+2351,2001,Fire,TX
+2352,2001,Fire,TX
+2353,2001,Fire,FL
+2354,2001,Fire,FL
+2355,2001,Fire,FL
+2356,2000,Fire,NV
+2357,2001,Fire,FL
+2358,2001,Fire,FL
+2359,2001,Fire,FL
+2360,2001,Fire,FL
+2361,2001,Fire,FL
+2362,2001,Fire,GA
+2363,2001,Fire,FL
+2364,2001,Fire,NM
+2365,2001,Fire,AK
+2366,2001,Fire,NV
+2367,2001,Fire,WY
+2368,2001,Fire,WA
+2369,2001,Fire,SD
+2370,2001,Fire,WY
+2371,2001,Fire,NV
+2372,2001,Fire,WA
+2373,2001,Fire,WA
+2374,2001,Fire,WA
+2375,2001,Fire,OR
+2376,2001,Fire,WA
+2377,2001,Fire,WA
+2378,2001,Fire,WA
+2379,2001,Fire,WA
+2380,2001,Fire,OR
+2381,2001,Fire,UT
+2382,2001,Fire,WY
+2383,2002,Fire,CO
+2384,2002,Fire,KY
+2385,2002,Fire,KY
+2386,2002,Fire,KY
+2387,2002,Fire,TN
+2388,2002,Fire,SC
+2389,2002,Fire,TN
+2390,2002,Fire,VA
+2391,2002,Fire,WV
+2392,2002,Fire,WV
+2393,2002,Fire,VA
+2394,2002,Fire,VA
+2395,2002,Fire,AL
+2396,2002,Fire,CA
+2397,2002,Fire,VA
+2398,2002,Fire,NM
+2399,2002,Fire,CO
+2400,2002,Fire,AZ
+2401,2002,Fire,CO
+2402,2002,Fire,NM
+2403,2002,Fire,CO
+2404,2002,Fire,NM
+2405,2002,Fire,CA
+2406,2002,Fire,AZ
+2407,2002,Fire,CO
+2408,2002,Fire,NM
+2409,2002,Fire,MN
+2410,2002,Fire,CO
+2411,2002,Fire,NJ
+2412,2002,Fire,CO
+2413,2002,Fire,CO
+2414,2002,Fire,NM
+2415,2002,Fire,NM
+2416,2002,Fire,NM
+2417,2002,Fire,CA
+2418,2002,Fire,CO
+2419,2002,Fire,CO
+2420,2002,Fire,NV
+2421,2002,Fire,CO
+2422,2002,Fire,CO
+2423,2002,Fire,CO
+2424,2002,Fire,NM
+2425,2002,Fire,CA
+2426,2002,Fire,SC
+2427,2002,Fire,WY
+2428,2002,Fire,CO
+2429,2002,Fire,AZ
+2430,2002,Fire,AZ
+2431,2002,Fire,CO
+2432,2002,Fire,CO
+2433,2002,Fire,CA
+2434,2002,Fire,SD
+2435,2002,Fire,ND
+2436,2002,Fire,WY
+2437,2002,Fire,UT
+2438,2002,Fire,NV
+2439,2002,Fire,AZ
+2441,2002,Fire,NV
+2442,2002,Fire,CO
+2443,2002,Fire,OR
+2444,2002,Fire,OR
+2445,2002,Fire,OR
+2446,2002,Fire,NV
+2447,2002,Fire,CO
+2448,2002,Fire,OR
+2449,2002,Fire,WA
+2450,2002,Fire,CA
+2451,2002,Fire,WA
+2452,2002,Fire,OR
+2453,2002,Fire,OR
+2454,2002,Fire,OR
+2455,2002,Fire,OR
+2456,2002,Fire,CA
+2457,2002,Fire,CO
+2458,2002,Fire,SD
+2459,2002,Fire,NM
+2460,2002,Fire,WY
+2461,2002,Fire,CA
+2462,2002,Fire,CA
+2463,2002,Fire,CA
+2464,2002,Fire,CA
+2465,2002,Fire,CA
+2466,2003,Fire,CA
+2467,2003,Fire,NM
+2468,2003,Fire,HI
+2469,2003,Fire,NV
+2470,2003,Fire,AZ
+2471,2003,Fire,AZ
+2472,2003,Fire,NM
+2473,2003,Fire,CA
+2474,2003,Fire,CA
+2475,2003,Fire,CA
+2476,2003,Fire,NV
+2477,2003,Fire,WA
+2478,2003,Fire,AZ
+2479,2003,Fire,NV
+2480,2003,Fire,UT
+2481,2003,Fire,WA
+2482,2003,Fire,OK
+2483,2003,Fire,MT
+2484,2003,Fire,MT
+2485,2003,Fire,MT
+2486,2003,Fire,CO
+2487,2003,Fire,CA
+2488,2003,Fire,MT
+2489,2003,Fire,MT
+2490,2003,Fire,MT
+2491,2003,Fire,CA
+2492,2003,Fire,MT
+2493,2003,Fire,OR
+2494,2003,Fire,MT
+2495,2003,Fire,OR
+2496,2003,Fire,OR
+2497,2003,Fire,CA
+2498,2003,Fire,WA
+2499,2003,Fire,NV
+2500,2004,Fire,CA
+2501,2004,Fire,CA
+2502,2004,Fire,CA
+2503,2004,Fire,CA
+2504,2004,Fire,CA
+2505,2004,Fire,CA
+2506,2004,Fire,CA
+2507,2004,Fire,CA
+2508,2004,Fire,CA
+2509,2004,Fire,CO
+2510,2004,Fire,CO
+2511,2004,Fire,CO
+2512,2004,Fire,WY
+2513,2004,Fire,SD
+2514,2004,Fire,CO
+2515,2004,Fire,CA
+2516,2004,Fire,CA
+2517,2004,Fire,CA
+2518,2004,Fire,NM
+2519,2004,Fire,CA
+2520,2004,Fire,AZ
+2521,2004,Fire,UT
+2522,2004,Fire,NM
+2523,2004,Fire,AZ
+2524,2004,Fire,NV
+2525,2004,Fire,AK
+2526,2004,Fire,CO
+2527,2004,Fire,WA
+2528,2004,Fire,CA
+2529,2004,Fire,CA
+2530,2004,Fire,CA
+2531,2004,Fire,NV
+2532,2004,Fire,CA
+2533,2004,Fire,CA
+2534,2004,Fire,CA
+2535,2004,Fire,CA
+2536,2004,Fire,NV
+2537,2004,Fire,WA
+2538,2004,Fire,WA
+2539,2004,Fire,OR
+2540,2004,Fire,CA
+2541,2004,Fire,CA
+2542,2004,Fire,AK
+2543,2004,Fire,WA
+2544,2004,Fire,CA
+2545,2004,Fire,CA
+2546,2004,Fire,WA
+2547,2004,Fire,CA
+2548,2004,Fire,CA
+2549,2004,Fire,OR
+2550,2004,Fire,NV
+2551,2004,Fire,AK
+2552,2004,Fire,CA
+2553,2004,Fire,CA
+2554,2004,Fire,CA
+2555,2004,Fire,CA
+2556,2004,Fire,HI
+2557,2005,Fire,SD
+2558,2005,Fire,AZ
+2559,2005,Fire,AZ
+2560,2005,Fire,AZ
+2561,2005,Fire,AZ
+2562,2005,Fire,AZ
+2563,2005,Fire,NV
+2564,2005,Fire,UT
+2565,2005,Fire,SD
+2566,2005,Fire,CO
+2567,2005,Fire,NV
+2568,2005,Fire,NV
+2569,2005,Fire,SD
+2570,2005,Fire,AZ
+2571,2005,Fire,CA
+2572,2005,Fire,WA
+2573,2005,Fire,HI
+2574,2005,Fire,HI
+2575,2005,Fire,WA
+2576,2005,Fire,HI
+2577,2005,Fire,HI
+2578,2005,Fire,NV
+2579,2005,Fire,OR
+2580,2005,Fire,CA
+2581,2005,Fire,NV
+2582,2005,Fire,CA
+2583,2005,Fire,CA
+2584,2006,Fire,CA
+2585,2006,Fire,CA
+2586,2006,Fire,CA
+2587,2006,Fire,OK
+2588,2006,Fire,OK
+2589,2006,Fire,OK
+2590,2006,Fire,OK
+2591,2006,Fire,TX
+2592,2006,Fire,OK
+2593,2006,Fire,TX
+2594,2006,Fire,OK
+2595,2006,Fire,OK
+2596,2006,Fire,TX
+2597,2006,Fire,OK
+2598,2006,Fire,TX
+2599,2006,Fire,OK
+2600,2006,Fire,NM
+2601,2006,Fire,OK
+2602,2006,Fire,OK
+2603,2006,Fire,OK
+2604,2006,Fire,OK
+2605,2006,Fire,OK
+2606,2006,Fire,OK
+2607,2006,Fire,OK
+2608,2006,Fire,OK
+2609,2006,Fire,TX
+2610,2006,Fire,TX
+2611,2006,Fire,TX
+2612,2006,Fire,TX
+2613,2006,Fire,CO
+2614,2006,Fire,TX
+2615,2006,Fire,OK
+2616,2006,Fire,OK
+2617,2006,Fire,TX
+2618,2006,Fire,OK
+2619,2006,Fire,TX
+2620,2006,Fire,TX
+2621,2006,Fire,TX
+2622,2006,Fire,TX
+2623,2006,Fire,OK
+2624,2006,Fire,OK
+2625,2006,Fire,OK
+2626,2006,Fire,OK
+2627,2006,Fire,OK
+2628,2006,Fire,OK
+2629,2006,Fire,TX
+2630,2006,Fire,CA
+2631,2006,Fire,NM
+2632,2006,Fire,KS
+2633,2006,Fire,OK
+2634,2006,Fire,OK
+2635,2006,Fire,OK
+2636,2006,Fire,NM
+2637,2006,Fire,VA
+2638,2006,Fire,FL
+2639,2006,Fire,TX
+2640,2006,Fire,AZ
+2641,2006,Fire,AK
+2642,2006,Fire,AZ
+2643,2006,Fire,AZ
+2644,2006,Fire,NM
+2645,2006,Fire,AZ
+2646,2006,Fire,CO
+2647,2006,Fire,NM
+2648,2006,Fire,NV
+2649,2006,Fire,NV
+2650,2006,Fire,NV
+2651,2006,Fire,TX
+2652,2006,Fire,MT
+2653,2006,Fire,CA
+2654,2006,Fire,WY
+2655,2006,Fire,NE
+2656,2006,Fire,CA
+2657,2006,Fire,OR
+2658,2006,Fire,SD
+2659,2006,Fire,OR
+2660,2006,Fire,NE
+2661,2006,Fire,NE
+2662,2006,Fire,CA
+2663,2006,Fire,WA
+2664,2006,Fire,NV
+2665,2006,Fire,WY
+2666,2006,Fire,TX
+2667,2006,Fire,TX
+2668,2006,Fire,WA
+2669,2006,Fire,MT
+2670,2006,Fire,NV
+2671,2006,Fire,MT
+2672,2006,Fire,CO
+2673,2006,Fire,HI
+2674,2006,Fire,WA
+2675,2006,Fire,TX
+2676,2006,Fire,CA
+2677,2006,Fire,CA
+2678,2007,Fire,CA
+2679,2007,Fire,NV
+2680,2007,Fire,TX
+2681,2007,Fire,CA
+2682,2007,Fire,NM
+2683,2007,Fire,CA
+2684,2007,Fire,FL
+2685,2007,Fire,GA
+2686,2007,Fire,GA
+2687,2007,Fire,FL
+2688,2007,Fire,GA
+2689,2007,Fire,FL
+2690,2007,Fire,FL
+2691,2007,Fire,CA
+2692,2007,Fire,FL
+2693,2007,Fire,GA
+2694,2007,Fire,CA
+2695,2007,Fire,NJ
+2696,2007,Fire,FL
+2697,2007,Fire,GA
+2698,2007,Fire,CO
+2699,2007,Fire,AK
+2700,2007,Fire,CA
+2701,2007,Fire,HI
+2702,2007,Fire,CA
+2703,2007,Fire,UT
+2704,2007,Fire,NV
+2705,2007,Fire,NV
+2706,2007,Fire,CA
+2707,2007,Fire,UT
+2708,2007,Fire,CA
+2709,2007,Fire,NV
+2710,2007,Fire,SD
+2711,2007,Fire,WA
+2712,2007,Fire,OR
+2713,2007,Fire,NV
+2714,2007,Fire,WA
+2715,2007,Fire,UT
+2716,2007,Fire,SD
+2717,2007,Fire,NV
+2718,2007,Fire,MT
+2719,2007,Fire,WY
+2720,2007,Fire,HI
+2721,2007,Fire,MT
+2722,2007,Fire,HI
+2723,2007,Fire,MT
+2724,2007,Fire,ID
+2725,2007,Fire,ID
+2726,2007,Fire,ID
+2727,2007,Fire,OR
+2728,2007,Fire,CA
+2729,2007,Fire,CA
+2730,2007,Fire,MT
+2731,2007,Fire,WA
+2732,2008,Fire,CA
+2733,2008,Fire,CA
+2734,2008,Fire,CA
+2735,2008,Fire,CA
+2736,2008,Fire,CA
+2737,2008,Fire,CA
+2738,2008,Fire,CA
+2739,2008,Fire,CA
+2740,2008,Fire,HI
+2741,2008,Fire,NM
+2742,2008,Fire,TX
+2743,2008,Fire,TX
+2744,2008,Fire,TX
+2745,2008,Fire,TX
+2746,2008,Fire,OK
+2747,2008,Fire,TX
+2748,2008,Fire,TX
+2749,2008,Fire,TX
+2750,2008,Fire,TX
+2751,2008,Fire,TX
+2752,2008,Fire,TX
+2753,2008,Fire,TX
+2754,2008,Fire,TX
+2755,2008,Fire,TX
+2756,2008,Fire,OK
+2757,2008,Fire,TX
+2758,2008,Fire,TX
+2759,2008,Fire,TX
+2760,2008,Fire,CO
+2761,2008,Fire,TX
+2762,2008,Fire,NM
+2763,2008,Fire,CA
+2764,2008,Fire,TX
+2765,2008,Fire,FL
+2766,2008,Fire,CA
+2767,2008,Fire,TX
+2768,2008,Fire,TX
+2769,2008,Fire,OK
+2770,2008,Fire,CA
+2771,2008,Fire,CA
+2772,2008,Fire,CA
+2773,2008,Fire,NC
+2774,2008,Fire,TX
+2775,2008,Fire,CA
+2776,2008,Fire,CA
+2777,2008,Fire,NM
+2778,2008,Fire,CO
+2779,2008,Fire,AZ
+2780,2008,Fire,CA
+2781,2008,Fire,CA
+2782,2008,Fire,CA
+2783,2008,Fire,WA
+2784,2008,Fire,WA
+2785,2008,Fire,TX
+2786,2008,Fire,CA
+2787,2008,Fire,OR
+2788,2009,Fire,CA
+2789,2009,Fire,CA
+2790,2009,Fire,CA
+2791,2009,Fire,CA
+2792,2009,Fire,CA
+2793,2009,Fire,CO
+2794,2009,Fire,TX
+2795,2009,Fire,TX
+2796,2009,Fire,TX
+2797,2009,Fire,TX
+2798,2009,Fire,TX
+2799,2009,Fire,OK
+2800,2009,Fire,TX
+2801,2009,Fire,TX
+2802,2009,Fire,TX
+2803,2009,Fire,TX
+2804,2009,Fire,TX
+2805,2009,Fire,TX
+2806,2009,Fire,TX
+2807,2009,Fire,TX
+2808,2009,Fire,OK
+2809,2009,Fire,OK
+2810,2009,Fire,TX
+2811,2009,Fire,OK
+2812,2009,Fire,OK
+2813,2009,Fire,OK
+2814,2009,Fire,TX
+2815,2009,Fire,TX
+2816,2009,Fire,SC
+2817,2009,Fire,CA
+2818,2009,Fire,NM
+2819,2009,Fire,FL
+2820,2009,Fire,AK
+2821,2009,Fire,AZ
+2822,2009,Fire,NV
+2823,2009,Fire,WA
+2824,2009,Fire,CA
+2825,2009,Fire,CA
+2826,2009,Fire,WA
+2827,2009,Fire,WA
+2828,2009,Fire,CA
+2829,2009,Fire,OR
+2830,2009,Fire,CA
+2831,2009,Fire,UT
+2832,2009,Fire,CA
+2833,2009,Fire,CA
+2834,2009,Fire,HI
+2835,2009,Fire,AZ
+2836,2009,Fire,CA
+2837,2009,Fire,MT
+2838,2009,Fire,OR
+2839,2009,Fire,CA
+2840,2010,Fire,AZ
+2841,2010,Fire,CA
+2842,2010,Fire,NM
+2843,2010,Fire,NM
+2844,2010,Fire,HI
+2845,2010,Fire,AZ
+2846,2010,Fire,AZ
+2847,2010,Fire,NV
+2848,2010,Fire,WA
+2849,2010,Fire,CA
+2850,2010,Fire,CA
+2851,2010,Fire,CA
+2852,2010,Fire,CA
+2853,2010,Fire,ID
+2854,2010,Fire,WA
+2855,2010,Fire,CO
+2856,2010,Fire,CA
+2857,2010,Fire,CO
+2858,2010,Fire,CA
+2859,2010,Fire,UT
+2860,2011,Fire,VA
+2861,2011,Fire,VA
+2862,2011,Fire,TX
+2863,2011,Fire,TX
+2864,2011,Fire,TX
+2865,2011,Fire,TX
+2866,2011,Fire,NM
+2867,2011,Fire,TX
+2868,2011,Fire,OK
+2869,2011,Fire,OK
+2870,2011,Fire,TX
+2871,2011,Fire,OK
+2872,2011,Fire,OK
+2873,2011,Fire,CO
+2874,2011,Fire,OK
+2875,2011,Fire,GA
+2876,2011,Fire,GA
+2877,2011,Fire,CO
+2878,2011,Fire,KS
+2879,2011,Fire,OK
+2880,2011,Fire,NM
+2881,2011,Fire,TX
+2882,2011,Fire,TX
+2883,2011,Fire,OK
+2884,2011,Fire,TX
+2885,2011,Fire,TX
+2886,2011,Fire,TX
+2887,2011,Fire,OK
+2888,2011,Fire,TX
+2889,2011,Fire,TX
+2890,2011,Fire,OK
+2891,2011,Fire,TX
+2892,2011,Fire,TX
+2893,2011,Fire,TX
+2894,2011,Fire,TX
+2895,2011,Fire,TX
+2896,2011,Fire,TX
+2897,2011,Fire,NM
+2898,2011,Fire,TX
+2899,2011,Fire,TX
+2900,2011,Fire,NE
+2901,2011,Fire,TX
+2902,2011,Fire,FL
+2903,2011,Fire,TX
+2904,2011,Fire,TX
+2905,2011,Fire,TX
+2906,2011,Fire,TX
+2907,2011,Fire,AZ
+2908,2011,Fire,TX
+2909,2011,Fire,AK
+2910,2011,Fire,TX
+2911,2011,Fire,TX
+2912,2011,Fire,TX
+2913,2011,Fire,TX
+2914,2011,Fire,TX
+2915,2011,Fire,AZ
+2916,2011,Fire,TX
+2917,2011,Fire,NM
+2918,2011,Fire,NM
+2919,2011,Fire,AZ
+2920,2011,Fire,GA
+2921,2011,Fire,GA
+2922,2011,Fire,TX
+2923,2011,Fire,CO
+2924,2011,Fire,TX
+2925,2011,Fire,TX
+2926,2011,Fire,TX
+2927,2011,Fire,TX
+2928,2011,Fire,TX
+2929,2011,Fire,TX
+2930,2011,Fire,TX
+2931,2011,Fire,TX
+2932,2011,Fire,OK
+2933,2011,Fire,NM
+2934,2011,Fire,NM
+2935,2011,Fire,NM
+2936,2011,Fire,NC
+2937,2011,Fire,TX
+2938,2011,Fire,OK
+2939,2011,Fire,OK
+2940,2011,Fire,OK
+2941,2011,Fire,OK
+2942,2011,Fire,OK
+2943,2011,Fire,OK
+2944,2011,Fire,OK
+2945,2011,Fire,OK
+2946,2011,Fire,OK
+2947,2011,Fire,OK
+2948,2011,Fire,OK
+2949,2011,Fire,TX
+2950,2011,Fire,MT
+2951,2011,Fire,OK
+2952,2011,Fire,TX
+2953,2011,Fire,OK
+2954,2011,Fire,OK
+2955,2011,Fire,CA
+2956,2011,Fire,OK
+2957,2011,Fire,TX
+2958,2011,Fire,TX
+2959,2011,Fire,TX
+2960,2011,Fire,TX
+2961,2011,Fire,CA
+2962,2011,Fire,TX
+2963,2011,Fire,TX
+2964,2011,Fire,TX
+2965,2011,Fire,TX
+2966,2011,Fire,WA
+2967,2011,Fire,TX
+2968,2011,Fire,TX
+2969,2011,Fire,NV
+2970,2011,Fire,CA
+2971,2011,Fire,CA
+2972,2012,Fire,NV
+2973,2012,Fire,NV
+2974,2012,Fire,NV
+2975,2012,Fire,CO
+2976,2012,Fire,TX
+2977,2012,Fire,NV
+2978,2012,Fire,NM
+2979,2012,Fire,NM
+2980,2012,Fire,CO
+2981,2012,Fire,NM
+2982,2012,Fire,NM
+2983,2012,Fire,UT
+2984,2012,Fire,CO
+2985,2012,Fire,CO
+2986,2012,Fire,UT
+2987,2012,Fire,MT
+2988,2012,Fire,MT
+2989,2012,Fire,MT
+2990,2012,Fire,UT
+2991,2012,Fire,UT
+2992,2012,Fire,WY
+2993,2012,Fire,WY
+2994,2012,Fire,UT
+2995,2012,Fire,WY
+2996,2012,Fire,SD
+2997,2012,Fire,OK
+2998,2012,Fire,OK
+2999,2012,Fire,OK
+3001,1974,Drought,VI
+3002,1974,Drought,PR
+3004,1975,Flood,NY
+3006,1975,Tornado,MS
+3007,1975,Tornado,AL
+3008,1975,Tornado,GA
+3010,1975,Flood,MS
+3011,1975,Flood,LA
+3012,1976,Flood,ND
+3013,1976,Drought,MN
+3014,1976,Drought,WI
+3015,1976,Drought,SD
+3016,1976,Drought,ND
+3017,1976,Drought,MO
+3018,1977,Drought,VA
+3019,1977,Drought,AR
+3020,1977,Fire,OK
+3021,1977,Drought,WV
+3022,1977,Drought,NE
+3023,1977,Drought,CA
+3024,1977,Drought,UT
+3025,1977,Drought,CO
+3026,1977,Snow,PA
+3027,1977,Snow,NY
+3028,1977,Snow,IN
+3029,1977,Snow,OH
+3030,1977,Snow,MI
+3031,1977,Snow,LA
+3032,1977,Snow,MS
+3033,1977,Snow,NC
+3034,1977,Drought,NM
+3035,1977,Drought,MI
+3036,1977,Drought,IA
+3037,1977,Drought,WA
+3038,1977,Drought,AZ
+3039,1977,Drought,OR
+3040,1977,Drought,ID
+3041,1977,Drought,NV
+3042,1977,Drought,VI
+3043,1977,Drought,WY
+3044,1977,Drought,GA
+3045,1977,Drought,AL
+3046,1977,Drought,VA
+3047,1977,Drought,SC
+3048,1978,Severe Storm(s),WI
+3049,1977,Drought,NC
+3050,1977,Drought,MT
+3051,1977,Drought,WV
+3052,1977,Flood,WV
+3053,1977,Drought,VT
+3054,1978,Tornado,AR
+3055,1978,Snow,OH
+3056,1978,Snow,IN
+3057,1978,Snow,MI
+3058,1978,Snow,RI
+3059,1978,Snow,MA
+3060,1978,Snow,CT
+3061,1978,Snow,ND
+3062,1978,Tornado,AR
+3063,1978,Tornado,MS
+3064,1978,Tornado,AL
+3065,1978,Tornado,ND
+3067,1979,Fire,CA
+3068,1979,Snow,IL
+3069,1979,Snow,WI
+3070,1979,Flood,WA
+3071,1979,Flood,MO
+3072,1979,Flood,GA
+3073,1979,Flood,NH
+3074,1979,Flood,AL
+3075,1979,Flood,FL
+3076,1979,Tornado,IA
+3077,1979,Severe Storm(s),MS
+3081,1980,Tornado,PA
+3083,1981,Drought,NJ
+3084,1982,Tornado,MS
+3085,1982,Tornado,AR
+3086,1982,Flood,WA
+3087,1984,Flood,MS
+3088,1984,Tornado,AL
+3089,1984,Tornado,GA
+3090,1984,Tornado,LA
+3091,1984,Flood,WI
+3093,1992,Drought,FM
+3095,1993,Snow,TN
+3096,1993,Snow,AL
+3097,1993,Snow,GA
+3098,1993,Snow,CT
+3099,1993,Snow,ME
+3100,1993,Snow,MD
+3101,1993,Snow,NH
+3102,1993,Snow,RI
+3103,1993,Snow,MA
+3104,1993,Snow,KY
+3105,1993,Snow,PA
+3106,1993,Snow,NJ
+3107,1993,Snow,NY
+3108,1993,Snow,DC
+3109,1993,Snow,WV
+3110,1993,Snow,NC
+3111,1993,Snow,DE
+3112,1993,Snow,VA
+3113,1993,Drought,TX
+3114,1994,Flood,FL
+3116,1995,Hurricane,FL
+3117,1996,Fire,TX
+3118,1996,Fire,OK
+3119,1997,Flood,MA
+3120,1997,Fire,CA
+3121,1997,Severe Storm(s),ME
+3122,1997,Severe Storm(s),HI
+3125,1998,Tornado,AR
+3127,1998,Fire,TX
+3128,1998,Fire,NM
+3129,1998,Hurricane,VI
+3130,1998,Hurricane,PR
+3131,1998,Hurricane,FL
+3132,1998,Hurricane,MS
+3133,1998,Hurricane,AL
+3134,1999,Snow,IL
+3135,1999,Snow,IN
+3136,1999,Snow,NY
+3137,1999,Snow,MI
+3138,1999,Snow,NY
+3139,1999,Fire,FL
+3140,1999,Fire,CA
+3141,1999,Hurricane,NC
+3142,1999,Fire,TX
+3143,1999,Hurricane,FL
+3144,1999,Hurricane,GA
+3145,1999,Hurricane,SC
+3146,1999,Hurricane,NC
+3147,1999,Hurricane,VA
+3148,1999,Hurricane,NJ
+3149,1999,Hurricane,NY
+3150,2000,Hurricane,FL
+3151,2000,Hurricane,PR
+3152,2000,Hurricane,VI
+3153,2000,Fire,MA
+3154,2000,Fire,NM
+3157,2001,Snow,NY
+3158,2001,Severe Ice Storm,OK
+3159,2001,Severe Ice Storm,AR
+3160,2001,Snow,MI
+3161,2001,Snow,IL
+3162,2001,Snow,IN
+3163,2001,Snow,WI
+3164,2001,Snow,ME
+3165,2001,Snow,MA
+3166,2001,Snow,NH
+3167,2001,Snow,VT
+3168,2001,Fire,VA
+3169,2001,Fire,NJ
+3170,2002,Snow,NY
+3173,2003,Snow,NY
+3174,2003,Snow,ME
+3175,2003,Snow,MA
+3176,2003,Snow,CT
+3177,2003,Snow,NH
+3178,2003,Severe Storm(s),DC
+3179,2003,Severe Storm(s),MD
+3180,2003,Severe Storm(s),PA
+3181,2003,Snow,NJ
+3182,2003,Snow,RI
+3183,2003,Snow,DE
+3184,2003,Snow,NY
+3185,2003,Snow,CO
+3190,2004,Snow,ME
+3191,2004,Snow,MA
+3192,2004,Snow,CT
+3193,2004,Snow,NH
+3194,2004,Snow,ME
+3195,2004,Snow,NY
+3196,2004,Snow,ND
+3197,2005,Snow,IN
+3198,2005,Snow,OH
+3199,2005,Snow,IL
+3200,2005,Snow,CT
+3201,2005,Snow,MA
+3202,2005,Snow,NV
+3203,2005,Snow,RI
+3204,2005,Snow,NV
+3205,2005,Snow,ME
+3206,2005,Snow,ME
+3207,2005,Snow,NH
+3208,2005,Snow,NH
+3209,2005,Snow,ME
+3210,2005,Snow,ME
+3211,2005,Snow,NH
+3212,2005,Hurricane,LA
+3213,2005,Hurricane,MS
+3214,2005,Hurricane,AL
+3215,2005,Hurricane,AR
+3216,2005,Hurricane,TX
+3217,2005,Hurricane,TN
+3218,2005,Hurricane,GA
+3219,2005,Hurricane,OK
+3220,2005,Hurricane,FL
+3221,2005,Hurricane,WV
+3222,2005,Hurricane,NC
+3225,2005,Hurricane,MI
+3226,2005,Hurricane,DC
+3229,2005,Hurricane,NM
+3230,2005,Hurricane,IL
+3231,2005,Hurricane,KY
+3232,2005,Hurricane,MO
+3233,2005,Hurricane,SC
+3235,2005,Hurricane,PA
+3236,2005,Hurricane,KS
+3237,2005,Hurricane,AL
+3238,2005,Hurricane,IN
+3239,2005,Hurricane,IA
+3240,2005,Hurricane,VA
+3241,2005,Hurricane,AZ
+3242,2005,Hurricane,MN
+3243,2005,Hurricane,NV
+3244,2005,Hurricane,ID
+3245,2005,Hurricane,NE
+3246,2005,Hurricane,CT
+3248,2005,Hurricane,CA
+3249,2005,Hurricane,WI
+3250,2005,Hurricane,OH
+3251,2005,Hurricane,MD
+3252,2005,Hurricane,MA
+3253,2005,Hurricane,MT
+3254,2005,Hurricane,NC
+3255,2005,Hurricane,RI
+3256,2005,Hurricane,ME
+3257,2005,Hurricane,NJ
+3258,2005,Hurricane,NH
+3259,2005,Hurricane,FL
+3260,2005,Hurricane,LA
+3261,2005,Hurricane,TX
+3262,2005,Hurricane,NY
+3263,2005,Hurricane,DE
+3264,2006,Severe Storm(s),MA
+3265,2006,Snow,ME
+3266,2006,Snow,CT
+3267,2006,Severe Storm(s),MO
+3268,2007,Snow,NY
+3269,2007,Snow,IL
+3270,2007,Snow,CO
+3271,2007,Snow,CO
+3272,2007,Severe Ice Storm,OK
+3273,2007,Snow,NY
+3274,2007,Snow,IN
+3275,2007,Snow,IA
+3276,2007,Drought,FM
+3277,2007,Hurricane,TX
+3279,2008,Fire,CA
+3280,2008,Severe Ice Storm,OK
+3281,2008,Severe Ice Storm,MO
+3282,2008,Severe Storm(s),KS
+3283,2008,Snow,IL
+3284,2008,Fire,TX
+3285,2008,Snow,WI
+3286,2008,Snow,OH
+3287,2008,Fire,CA
+3288,2008,Severe Storm(s),FL
+3289,2008,Hurricane,LA
+3290,2008,Hurricane,TX
+3291,2008,Hurricane,MS
+3292,2008,Hurricane,AL
+3293,2008,Hurricane,FL
+3294,2008,Hurricane,TX
+3295,2008,Hurricane,LA
+3296,2009,Severe Storm(s),MA
+3297,2009,Severe Storm(s),NH
+3298,2009,Severe Storm(s),ME
+3299,2009,Severe Storm(s),NY
+3301,2009,Severe Ice Storm,AR
+3302,2009,Severe Ice Storm,KY
+3303,2009,Severe Ice Storm,MO
+3304,2009,Severe Storm(s),MN
+3305,2009,Snow,OK
+3306,2010,Fire,PR
+3307,2010,Severe Storm(s),AZ
+3308,2010,Severe Storm(s),OK
+3309,2010,Flood,ND
+3310,2010,Flood,MN
+3311,2010,Severe Storm(s),RI
+3313,2010,Hurricane,TX
+3314,2010,Hurricane,NC
+3315,2010,Hurricane,MA
+3316,2011,Severe Storm(s),OK
+3317,2011,Severe Storm(s),MO
+3318,2011,Flood,ND
+3319,2011,Severe Storm(s),AL
+3320,2011,Flood,MS
+3321,2011,Flood,TN
+3322,2011,Flood,LA
+3323,2011,Flood,NE
+3324,2011,Flood,KS
+3325,2011,Flood,MO
+3326,2011,Hurricane,PR
+3327,2011,Hurricane,NC
+3328,2011,Hurricane,NY
+3329,2011,Hurricane,VA
+3330,2011,Hurricane,MA
+3331,2011,Hurricane,CT
+3332,2011,Hurricane,NJ
+3334,2011,Hurricane,RI
+3335,2011,Hurricane,MD
+3336,2011,Hurricane,DE
+3337,2011,Hurricane,DC
+3338,2011,Hurricane,VT
+3339,2011,Hurricane,PA
+3340,2011,Flood,PA
+3341,2011,Severe Storm(s),NY
+3342,2012,Severe Storm(s),CT
+3343,2012,Severe Storm(s),MA
+3344,2012,Severe Storm(s),NH
+3345,2012,Severe Storm(s),WV
+3346,2012,Severe Storm(s),OH
+3347,2012,Hurricane,LA
+3348,2012,Hurricane,MS
+3349,2013,Hurricane,MD
+3350,2013,Hurricane,MA
+3351,2013,Hurricane,NY
+3352,2013,Hurricane,DC
+3353,2013,Hurricane,CT
+3354,2013,Hurricane,NJ
+3355,2013,Hurricane,RI
+3356,2013,Hurricane,PA
+3357,2013,Hurricane,DE
+3358,2013,Hurricane,WV
+3359,2013,Hurricane,VA
+3360,2013,Hurricane,NH
+3361,2013,Severe Storm(s),CT
+3364,2013,Flood,ND
+3365,2013,Flood,CO
+3367,2014,Severe Ice Storm,PA
+3368,2014,Severe Ice Storm,GA
+3369,2014,Severe Ice Storm,SC
+3371,2014,Fire,WA
+3372,2015,Fire,WA
+3373,2016,Severe Storm(s),SC
+3374,2016,Flood,MO
+3376,2016,Flood,LA
+3377,2017,Hurricane,FL
+3378,2017,Hurricane,SC
+3379,2017,Hurricane,GA
+3380,2017,Hurricane,NC
+3382,2017,Hurricane,LA
+3383,2017,Hurricane,VI
+3384,2017,Hurricane,PR
+3385,2017,Hurricane,FL
+3386,2017,Hurricane,SC
+3387,2017,Hurricane,GA
+3388,2017,Hurricane,FL
+3389,2017,Hurricane,AL
+3390,2017,Hurricane,VI
+3391,2017,Hurricane,PR
+3392,2018,Hurricane,LA
+3393,2018,Hurricane,MS
+3394,2018,Hurricane,AL
+3395,2018,Hurricane,FL
+3396,2018,Fire,CA
+3397,2018,Hurricane,AS
+3398,2018,Fire,CA
+3399,2018,Hurricane,HI
+3400,2018,Hurricane,SC
+3401,2018,Hurricane,NC
+3402,2018,Typhoon,MP
+3403,2018,Hurricane,VA
+3404,2018,Hurricane,HI
+3405,2019,Hurricane,FL
+3406,2019,Hurricane,GA
+3407,2019,Hurricane,AL
+3408,2019,Typhoon,MP
+3409,2019,Fire,CA
+3411,2019,Flood,OK
+3412,2019,Severe Storm(s),KS
+3413,2019,Flood,LA
+3414,2019,Flood,AR
+3417,2019,Severe Storm(s),PR
+3418,2019,Hurricane,VI
+3419,2019,Hurricane,FL
+3420,2019,Hurricane,FL
+3421,2019,Hurricane,SC
+3422,2019,Hurricane,GA
+3423,2019,Hurricane,NC
+4000,2011,Severe Storm(s),AR
+4001,2011,Severe Storm(s),VT
+4002,2011,Severe Storm(s),OH
+4003,2011,Severe Storm(s),PA
+4004,2011,Severe Storm(s),PR
+4005,2011,Severe Storm(s),TN
+4006,2011,Flood,NH
+4007,2011,Severe Storm(s),WY
+4008,2011,Severe Storm(s),KY
+4009,2011,Severe Storm(s),MN
+4010,2011,Severe Storm(s),KS
+4011,2011,Flood,UT
+4012,2011,Flood,MO
+4013,2011,Flood,NE
+4014,2011,Severe Storm(s),NE
+4015,2011,Flood,LA
+4016,2011,Severe Storm(s),IA
+4017,2011,Hurricane,PR
+4018,2011,Severe Storm(s),IA
+4019,2011,Hurricane,NC
+4020,2011,Hurricane,NY
+4021,2011,Hurricane,NJ
+4022,2011,Hurricane,VT
+4023,2011,Hurricane,CT
+4024,2011,Hurricane,VA
+4025,2011,Hurricane,PA
+4026,2011,Hurricane,NH
+4027,2011,Hurricane,RI
+4028,2011,Hurricane,MA
+4029,2011,Fire,TX
+4030,2011,Flood,PA
+4031,2011,Severe Storm(s),NY
+4032,2011,Hurricane,ME
+4033,2011,Severe Storm(s),NJ
+4034,2011,Hurricane,MD
+4035,2011,Flood,KS
+4036,2011,Hurricane,DC
+4037,2011,Hurricane,DE
+4038,2012,Flood,MD
+4039,2012,Severe Storm(s),NJ
+4040,2012,Hurricane,PR
+4043,2012,Severe Storm(s),VT
+4045,2012,Severe Storm(s),VA
+4046,2012,Severe Storm(s),CT
+4047,2012,Flood,NM
+4048,2012,Severe Storm(s),NJ
+4049,2012,Severe Storm(s),NH
+4050,2012,Severe Storm(s),AK
+4051,2012,Severe Storm(s),MA
+4052,2012,Severe Storm(s),AL
+4053,2012,Severe Storm(s),UT
+4054,2012,Severe Storm(s),AK
+4055,2012,Flood,OR
+4056,2012,Severe Storm(s),WA
+4057,2012,Severe Storm(s),KY
+4058,2012,Severe Storm(s),IN
+4059,2012,Severe Storm(s),WV
+4060,2012,Severe Storm(s),TN
+4061,2012,Severe Storm(s),WV
+4062,2012,Severe Storm(s),HI
+4063,2012,Severe Storm(s),KS
+4064,2012,Severe Storm(s),OK
+4065,2012,Severe Storm(s),NH
+4066,2012,Severe Storm(s),VT
+4067,2012,Fire,CO
+4068,2012,Severe Storm(s),FL
+4069,2012,Severe Storm(s),MN
+4070,2012,Severe Storm(s),NJ
+4071,2012,Severe Storm(s),WV
+4072,2012,Severe Storm(s),VA
+4073,2012,Severe Storm(s),DC
+4074,2012,Fire,MT
+4075,2012,Severe Storm(s),MD
+4076,2012,Severe Storm(s),WI
+4077,2012,Severe Storm(s),OH
+4078,2012,Fire,OK
+4079,2012,Flood,NM
+4080,2012,Hurricane,LA
+4081,2012,Hurricane,MS
+4082,2012,Hurricane,AL
+4083,2012,Severe Storm(s),WA
+4084,2013,Hurricane,FL
+4085,2013,Hurricane,NY
+4086,2013,Hurricane,NJ
+4087,2013,Hurricane,CT
+4088,2013,Flood,UT
+4089,2013,Hurricane,RI
+4090,2013,Hurricane,DE
+4091,2013,Hurricane,MD
+4092,2013,Hurricane,VA
+4093,2013,Hurricane,WV
+4094,2013,Severe Storm(s),AK
+4095,2013,Hurricane,NH
+4096,2013,Hurricane,DC
+4097,2013,Hurricane,MA
+4098,2013,Hurricane,OH
+4099,2013,Hurricane,PA
+4100,2013,Severe Ice Storm,AR
+4101,2013,Severe Storm(s),MS
+4102,2013,Severe Storm(s),LA
+4105,2013,Severe Storm(s),NH
+4106,2013,Severe Storm(s),CT
+4107,2013,Severe Storm(s),RI
+4108,2013,Severe Storm(s),ME
+4109,2013,Severe Storm(s),OK
+4110,2013,Severe Storm(s),MA
+4111,2013,Severe Storm(s),NY
+4112,2013,Snow,KS
+4113,2013,Severe Storm(s),MN
+4114,2013,Severe Storm(s),IA
+4115,2013,Severe Storm(s),SD
+4116,2013,Flood,IL
+4117,2013,Tornado,OK
+4118,2013,Flood,ND
+4119,2013,Flood,IA
+4120,2013,Flood,VT
+4121,2013,Flood,MI
+4122,2013,Flood,AK
+4123,2013,Flood,ND
+4124,2013,Severe Storm(s),AR
+4125,2013,Severe Storm(s),SD
+4126,2013,Severe Storm(s),IA
+4127,2013,Flood,MT
+4128,2013,Severe Storm(s),ND
+4129,2013,Flood,NY
+4130,2013,Severe Storm(s),MO
+4131,2013,Severe Storm(s),MN
+4132,2013,Flood,WV
+4133,2013,Fire,CO
+4134,2013,Fire,CO
+4135,2013,Severe Storm(s),IA
+4137,2013,Severe Storm(s),SD
+4138,2013,Severe Storm(s),FL
+4139,2013,Severe Storm(s),NH
+4140,2013,Flood,VT
+4141,2013,Severe Storm(s),WI
+4142,2013,Fire,CA
+4143,2013,Severe Storm(s),AR
+4144,2013,Severe Storm(s),MO
+4145,2013,Flood,CO
+4146,2013,Flood,NC
+4147,2013,Severe Storm(s),NM
+4148,2013,Severe Storm(s),NM
+4149,2014,Severe Storm(s),PA
+4150,2014,Severe Storm(s),KS
+4151,2014,Severe Storm(s),NM
+4152,2014,Flood,NM
+4153,2014,Flood,NC
+4154,2014,Severe Storm(s),ND
+4155,2014,Severe Storm(s),SD
+4156,2014,Severe Storm(s),NE
+4157,2014,Tornado,IL
+4158,2014,Fire,CA
+4159,2014,Severe Storm(s),TX
+4160,2014,Severe Ice Storm,AR
+4161,2014,Flood,AK
+4162,2014,Severe Storm(s),AK
+4163,2014,Severe Ice Storm,VT
+4164,2014,Severe Storm(s),OK
+4165,2014,Severe Ice Storm,GA
+4166,2014,Severe Ice Storm,SC
+4167,2014,Severe Ice Storm,NC
+4169,2014,Severe Storm(s),OR
+4170,2014,Severe Storm(s),MD
+4171,2014,Severe Ice Storm,TN
+4172,2014,Flood,MT
+4173,2014,Severe Storm(s),IN
+4174,2014,Severe Storm(s),AR
+4175,2014,Severe Storm(s),MS
+4176,2014,Severe Storm(s),AL
+4177,2014,Severe Storm(s),FL
+4178,2014,Flood,VT
+4179,2014,Tornado,NE
+4180,2014,Severe Storm(s),NY
+4181,2014,Severe Storm(s),IA
+4182,2014,Flood,MN
+4183,2014,Severe Storm(s),NE
+4184,2014,Flood,IA
+4185,2014,Severe Storm(s),NE
+4186,2014,Flood,SD
+4187,2014,Severe Storm(s),IA
+4188,2014,Fire,WA
+4189,2014,Severe Storm(s),TN
+4190,2014,Flood,ND
+4191,2014,Severe Storm(s),GU
+4192,2014,Severe Storm(s),AS
+4194,2014,Severe Storm(s),HI
+4195,2014,Flood,MI
+4196,2014,Severe Storm(s),KY
+4197,2015,Severe Storm(s),NM
+4198,2015,Severe Storm(s),MT
+4199,2015,Severe Storm(s),NM
+4200,2015,Severe Storm(s),MO
+4202,2015,Flood,NV
+4203,2015,Flood,AZ
+4204,2015,Snow,NY
+4205,2015,Tornado,MS
+4206,2015,Flood,CA
+4207,2015,Severe Storm(s),VT
+4208,2015,Snow,ME
+4209,2015,Severe Storm(s),NH
+4210,2015,Severe Storm(s),WV
+4211,2015,Severe Ice Storm,TN
+4212,2015,Severe Storm(s),RI
+4213,2015,Severe Storm(s),CT
+4214,2015,Severe Storm(s),MA
+4215,2015,Severe Ice Storm,GA
+4216,2015,Snow,KY
+4217,2015,Flood,KY
+4218,2015,Flood,KY
+4219,2015,Severe Storm(s),WV
+4220,2015,Flood,WV
+4221,2015,Flood,WV
+4222,2015,Severe Storm(s),OK
+4223,2015,Severe Storm(s),TX
+4224,2015,Typhoon,GU
+4225,2015,Severe Storm(s),NE
+4226,2015,Severe Storm(s),AR
+4227,2015,Flood,WY
+4228,2015,Flood,LA
+4229,2015,Flood,CO
+4230,2015,Severe Storm(s),KS
+4231,2015,Severe Storm(s),NJ
+4232,2015,Severe Storm(s),VT
+4233,2015,Severe Storm(s),SD
+4234,2015,Severe Storm(s),IA
+4235,2015,Typhoon,MP
+4236,2015,Severe Storm(s),WV
+4237,2015,Severe Storm(s),SD
+4238,2015,Severe Storm(s),MO
+4239,2015,Severe Storm(s),KY
+4240,2015,Fire,CA
+4241,2016,Flood,SC
+4242,2016,Severe Storm(s),WA
+4243,2016,Fire,WA
+4245,2016,Severe Storm(s),TX
+4246,2016,Severe Storm(s),ID
+4247,2016,Severe Ice Storm,OK
+4248,2016,Severe Storm(s),MS
+4249,2016,Severe Storm(s),WA
+4250,2016,Flood,MO
+4251,2016,Severe Storm(s),AL
+4252,2016,Severe Storm(s),ID
+4253,2016,Flood,WA
+4254,2016,Severe Storm(s),AR
+4255,2016,Severe Storm(s),TX
+4256,2016,Severe Storm(s),OK
+4257,2016,Severe Storm(s),AK
+4258,2016,Severe Storm(s),OR
+4259,2016,Severe Storm(s),GA
+4260,2016,Snow,DC
+4261,2016,Snow,MD
+4262,2016,Snow,VA
+4263,2016,Flood,LA
+4264,2016,Severe Storm(s),NJ
+4265,2016,Snow,DE
+4266,2016,Flood,TX
+4267,2016,Snow,PA
+4268,2016,Flood,MS
+4269,2016,Flood,TX
+4270,2016,Severe Storm(s),AR
+4271,2016,Severe Storm(s),MT
+4272,2016,Flood,TX
+4273,2016,Flood,WV
+4274,2016,Flood,OK
+4275,2016,Tornado,MT
+4276,2016,Severe Storm(s),WI
+4277,2016,Flood,LA
+4278,2016,Severe Storm(s),KY
+4279,2016,Flood,MD
+4280,2016,Hurricane,FL
+4281,2016,Flood,IA
+4283,2017,Hurricane,FL
+4284,2017,Hurricane,GA
+4285,2017,Hurricane,NC
+4286,2017,Hurricane,SC
+4287,2017,Severe Storm(s),KS
+4288,2017,Flood,WI
+4289,2017,Flood,IA
+4290,2017,Flood,MN
+4291,2017,Hurricane,VA
+4292,2017,Flood,PA
+4293,2017,Fire,TN
+4294,2017,Severe Storm(s),GA
+4295,2017,Tornado,MS
+4296,2017,Severe Storm(s),OR
+4297,2017,Tornado,GA
+4298,2017,Severe Storm(s),SD
+4299,2017,Severe Storm(s),OK
+4300,2017,Tornado,LA
+4301,2017,Severe Storm(s),CA
+4302,2017,Severe Storm(s),CA
+4303,2017,Severe Storm(s),NV
+4304,2017,Severe Ice Storm,KS
+4305,2017,Flood,CA
+4306,2017,Severe Storm(s),WY
+4307,2017,Severe Storm(s),NV
+4308,2017,Flood,CA
+4309,2017,Flood,WA
+4310,2017,Flood,ID
+4311,2017,Flood,UT
+4312,2017,Severe Storm(s),CA
+4313,2017,Flood,ID
+4314,2017,Severe Storm(s),MS
+4315,2017,Severe Storm(s),OK
+4316,2017,Severe Storm(s),NH
+4317,2017,Flood,MO
+4318,2017,Severe Storm(s),AR
+4319,2017,Snow,KS
+4320,2017,Severe Storm(s),TN
+4321,2017,Severe Storm(s),NE
+4322,2017,Snow,NY
+4323,2017,Flood,ND
+4324,2017,Tornado,OK
+4325,2017,Severe Storm(s),NE
+4326,2017,Severe Storm(s),MI
+4327,2017,Flood,WY
+4328,2017,Severe Storm(s),OR
+4329,2017,Severe Storm(s),NH
+4330,2017,Severe Storm(s),VT
+4331,2017,Severe Storm(s),WV
+4332,2017,Hurricane,TX
+4333,2017,Flood,ID
+4334,2017,Severe Storm(s),IA
+4335,2017,Hurricane,VI
+4336,2017,Hurricane,PR
+4337,2017,Hurricane,FL
+4338,2017,Hurricane,GA
+4339,2017,Hurricane,PR
+4340,2017,Hurricane,VI
+4341,2017,Hurricane,FL
+4342,2018,Flood,ID
+4343,2018,Severe Storm(s),WI
+4344,2018,Fire,CA
+4345,2018,Hurricane,LA
+4346,2018,Hurricane,SC
+4347,2018,Severe Storm(s),KS
+4348,2018,Flood,NY
+4349,2018,Hurricane,AL
+4350,2018,Hurricane,MS
+4351,2018,Severe Storm(s),AK
+4352,2018,Flood,NM
+4353,2018,Fire,CA
+4354,2018,Severe Storm(s),ME
+4355,2018,Severe Storm(s),NH
+4356,2018,Severe Storm(s),VT
+4357,2018,Hurricane,AS
+4358,2018,Flood,KY
+4360,2018,Flood,OH
+4361,2018,Flood,KY
+4362,2018,Severe Storm(s),AL
+4363,2018,Flood,IN
+4364,2018,Severe Storm(s),NC
+4365,2018,Flood,HI
+4368,2018,Severe Storm(s),NJ
+4371,2018,Snow,NH
+4372,2018,Severe Storm(s),MA
+4373,2018,Fire,OK
+4374,2018,Severe Storm(s),MD
+4375,2018,Snow,NE
+4376,2018,Flood,MD
+4377,2018,Flood,TX
+4378,2018,Severe Storm(s),WV
+4379,2018,Snow,MA
+4380,2018,Severe Storm(s),VT
+4381,2018,Flood,MI
+4382,2018,Fire,CA
+4383,2018,Flood,WI
+4384,2018,Flood,WA
+4385,2018,Tornado,CT
+4386,2018,Severe Storm(s),IA
+4387,2018,Severe Storm(s),NE
+4388,2018,Flood,MT
+4389,2018,Flood,AZ
+4390,2018,Flood,MN
+4391,2018,Flood,AK
+4392,2018,Severe Storm(s),IA
+4393,2018,Hurricane,NC
+4394,2018,Hurricane,SC
+4395,2018,Hurricane,HI
+4396,2018,Typhoon,MP
+4397,2019,Flood,NY
+4398,2019,Typhoon,GU
+4399,2019,Hurricane,FL
+4400,2019,Hurricane,GA
+4401,2019,Hurricane,VA
+4402,2019,Flood,WI
+4403,2019,Severe Storm(s),KS
+4404,2019,Typhoon,MP
+4405,2019,Flood,MT
+4406,2019,Hurricane,AL
+4407,2019,Fire,CA
+4408,2019,Severe Storm(s),PA
+4409,2019,Severe Storm(s),AZ
+4410,2019,Severe Storm(s),CT
+4411,2019,Hurricane,VA
+4412,2019,Hurricane,NC
+4414,2019,Flood,MN
+4415,2019,Severe Storm(s),MS
+4416,2019,Flood,TX
+4417,2019,Severe Storm(s),KS
+4418,2019,Severe Storm(s),WA
+4419,2019,Tornado,AL
+4420,2019,Flood,NE
+4421,2019,Flood,IA
+4422,2019,Severe Storm(s),CA
+4423,2019,Severe Storm(s),CA
+4424,2019,Flood,OH
+4425,2019,Severe Storm(s),CA
+4426,2019,Severe Storm(s),AL
+4427,2019,Flood,TN
+4428,2019,Severe Storm(s),KY
+4429,2019,Severe Storm(s),MS
+4430,2019,Flood,IA
+4431,2019,Severe Storm(s),CA
+4432,2019,Severe Storm(s),OR
+4433,2019,Typhoon,GU
+4434,2019,Severe Storm(s),CA
+4435,2019,Flood,MO
+4436,2019,Severe Storm(s),AZ
+4437,2019,Flood,MT
+4438,2019,Severe Storm(s),OK
+4439,2019,Severe Storm(s),LA
+4440,2019,Flood,SD
+4441,2019,Flood,AR
+4442,2019,Flood,MN
+4443,2019,Flood,ID
+4444,2019,Flood,ND
+4445,2019,Flood,VT
+4446,2019,Flood,NE
+4447,2019,Tornado,OH
+4448,2019,Severe Storm(s),SD
+4449,2019,Severe Storm(s),KS
+4450,2019,Severe Storm(s),MS
+4451,2019,Severe Storm(s),MO
+4452,2019,Flood,OR
+4453,2019,Severe Storm(s),OK
+4454,2019,Flood,TX
+4455,2019,Flood,WV
+4456,2019,Severe Storm(s),OK
+4457,2019,Severe Storm(s),NH
+4458,2019,Hurricane,LA
+4459,2019,Flood,WI
+4460,2019,Flood,AR
+4461,2019,Flood,IL
+4462,2019,Flood,LA
+4463,2019,Flood,SD
+4464,2019,Hurricane,SC
+5000,2012,Fire,OK
+5001,2012,Fire,OK
+5002,2012,Fire,OK
+5003,2012,Fire,OK
+5004,2012,Fire,CA
+5005,2012,Fire,WA
+5006,2012,Fire,ID
+5007,2012,Fire,CA
+5008,2012,Fire,MT
+5009,2012,Fire,NE
+5010,2012,Fire,SD
+5011,2012,Fire,WA
+5012,2012,Fire,WA
+5013,2012,Fire,WA
+5014,2012,Fire,WY
+5015,2012,Fire,WA
+5016,2012,Fire,MT
+5017,2012,Fire,WA
+5018,2012,Fire,WA
+5019,2012,Fire,ID
+5020,2012,Fire,WA
+5021,2012,Fire,CA
+5022,2013,Fire,CO
+5023,2013,Fire,CA
+5024,2013,Fire,CA
+5025,2013,Fire,CA
+5026,2013,Fire,NM
+5027,2013,Fire,CO
+5028,2013,Fire,CO
+5029,2013,Fire,AZ
+5030,2013,Fire,CO
+5031,2013,Fire,CO
+5032,2013,Fire,AZ
+5033,2013,Fire,AZ
+5034,2013,Fire,NV
+5035,2013,Fire,MT
+5036,2013,Fire,OR
+5037,2013,Fire,OR
+5038,2013,Fire,WA
+5039,2013,Fire,OR
+5040,2013,Fire,CA
+5041,2013,Fire,CA
+5042,2013,Fire,WA
+5043,2013,Fire,ID
+5044,2013,Fire,UT
+5045,2013,Fire,ID
+5046,2013,Fire,OR
+5047,2013,Fire,MT
+5048,2013,Fire,WA
+5049,2013,Fire,CA
+5050,2013,Fire,CA
+5051,2014,Fire,CA
+5052,2014,Fire,OK
+5053,2014,Fire,TX
+5054,2014,Fire,CA
+5055,2014,Fire,CA
+5056,2014,Fire,OR
+5057,2014,Fire,CA
+5058,2014,Fire,WA
+5059,2014,Fire,WA
+5060,2014,Fire,OR
+5061,2014,Fire,WA
+5062,2014,Fire,WA
+5063,2014,Fire,WA
+5064,2014,Fire,WA
+5065,2014,Fire,UT
+5066,2014,Fire,OR
+5067,2014,Fire,CA
+5068,2014,Fire,CA
+5069,2014,Fire,CA
+5070,2014,Fire,CA
+5071,2014,Fire,WA
+5072,2014,Fire,WA
+5073,2014,Fire,OR
+5074,2014,Fire,CA
+5075,2014,Fire,CA
+5076,2014,Fire,CA
+5077,2014,Fire,CA
+5078,2014,Fire,CA
+5079,2014,Fire,CA
+5080,2014,Fire,OR
+5081,2014,Fire,CA
+5082,2015,Fire,CA
+5083,2015,Fire,AZ
+5084,2015,Fire,AK
+5085,2015,Fire,AK
+5086,2015,Fire,AZ
+5087,2015,Fire,WA
+5088,2015,Fire,ID
+5089,2015,Fire,CA
+5090,2015,Fire,WA
+5091,2015,Fire,CA
+5092,2015,Fire,OR
+5093,2015,Fire,CA
+5094,2015,Fire,WA
+5095,2015,Fire,AZ
+5096,2015,Fire,OR
+5097,2015,Fire,OR
+5098,2015,Fire,WA
+5099,2015,Fire,ID
+5100,2015,Fire,WA
+5101,2015,Fire,WA
+5102,2015,Fire,OR
+5103,2015,Fire,WA
+5104,2015,Fire,WA
+5105,2015,Fire,ID
+5106,2015,Fire,WA
+5107,2015,Fire,OR
+5108,2015,Fire,WA
+5109,2015,Fire,WA
+5110,2015,Fire,ID
+5111,2015,Fire,CA
+5112,2015,Fire,CA
+5113,2015,Fire,WA
+5114,2015,Fire,OR
+5115,2016,Fire,WY
+5116,2016,Fire,TX
+5117,2016,Fire,OK
+5118,2016,Fire,OK
+5119,2016,Fire,OK
+5120,2016,Fire,KS
+5121,2016,Fire,KS
+5122,2016,Fire,OK
+5123,2016,Fire,NH
+5124,2016,Fire,CA
+5125,2016,Fire,AZ
+5126,2016,Fire,OR
+5127,2016,Fire,NM
+5128,2016,Fire,CA
+5129,2016,Fire,CA
+5130,2016,Fire,UT
+5131,2016,Fire,CA
+5132,2016,Fire,CA
+5133,2016,Fire,CO
+5134,2016,Fire,NM
+5135,2016,Fire,CA
+5136,2016,Fire,WY
+5137,2016,Fire,CA
+5138,2016,Fire,NV
+5139,2016,Fire,WY
+5140,2016,Fire,CA
+5141,2016,Fire,NV
+5142,2016,Fire,WA
+5143,2016,Fire,MT
+5144,2016,Fire,CA
+5145,2016,Fire,CA
+5146,2016,Fire,CA
+5147,2016,Fire,CA
+5148,2016,Fire,WA
+5149,2016,Fire,WA
+5150,2016,Fire,CA
+5151,2016,Fire,ID
+5152,2016,Fire,WA
+5153,2016,Fire,OR
+5154,2017,Fire,NV
+5155,2017,Fire,CO
+5156,2017,Fire,NV
+5157,2017,Fire,CO
+5158,2017,Fire,KY
+5159,2017,Fire,TN
+5160,2017,Fire,TN
+5161,2017,Fire,NC
+5162,2017,Fire,SC
+5163,2017,Fire,GA
+5164,2017,Fire,NC
+5165,2017,Fire,TN
+5166,2017,Fire,KY
+5167,2017,Fire,TN
+5168,2017,Fire,OK
+5169,2017,Fire,OK
+5170,2017,Fire,KS
+5171,2017,Fire,KS
+5172,2017,Fire,KS
+5173,2017,Fire,KS
+5174,2017,Fire,KS
+5175,2017,Fire,KS
+5176,2017,Fire,KS
+5177,2017,Fire,OK
+5178,2017,Fire,FL
+5179,2017,Fire,FL
+5180,2017,Fire,FL
+5181,2017,Fire,GA
+5182,2017,Fire,WA
+5183,2017,Fire,AZ
+5184,2017,Fire,NM
+5185,2017,Fire,UT
+5186,2017,Fire,AZ
+5187,2017,Fire,WA
+5188,2017,Fire,AZ
+5189,2017,Fire,CA
+5190,2017,Fire,NV
+5191,2017,Fire,NV
+5192,2017,Fire,CA
+5193,2017,Fire,NV
+5194,2017,Fire,MT
+5195,2017,Fire,OR
+5196,2017,Fire,OR
+5197,2017,Fire,MT
+5198,2017,Fire,OR
+5199,2017,Fire,CA
+5200,2017,Fire,WA
+5201,2017,Fire,CA
+5202,2017,Fire,CA
+5203,2017,Fire,OR
+5204,2017,Fire,CA
+5205,2017,Fire,CA
+5206,2017,Fire,UT
+5207,2017,Fire,MT
+5208,2017,Fire,MT
+5209,2017,Fire,MT
+5210,2017,Fire,MT
+5211,2017,Fire,MT
+5212,2017,Fire,MT
+5213,2017,Fire,CA
+5214,2018,Fire,CA
+5215,2018,Fire,CA
+5216,2018,Fire,CA
+5217,2018,Fire,CA
+5218,2018,Fire,CA
+5219,2018,Fire,CA
+5220,2018,Fire,CA
+5221,2018,Fire,CA
+5222,2018,Fire,CA
+5223,2018,Fire,CA
+5224,2018,Fire,CA
+5225,2018,Fire,CA
+5226,2018,Fire,CA
+5227,2018,Fire,CA
+5228,2018,Fire,CA
+5229,2018,Fire,SD
+5230,2018,Fire,OK
+5231,2018,Fire,OK
+5232,2018,Fire,OK
+5233,2018,Fire,TX
+5234,2018,Fire,TX
+5235,2018,Fire,TX
+5236,2018,Fire,AZ
+5237,2018,Fire,TX
+5238,2018,Fire,AZ
+5239,2018,Fire,NM
+5240,2018,Fire,NM
+5241,2018,Fire,WY
+5242,2018,Fire,NV
+5243,2018,Fire,OR
+5244,2018,Fire,CA
+5245,2018,Fire,CA
+5246,2018,Fire,CO
+5247,2018,Fire,CO
+5248,2018,Fire,UT
+5249,2018,Fire,CO
+5250,2018,Fire,CA
+5251,2018,Fire,CA
+5252,2018,Fire,CA
+5253,2018,Fire,WA
+5254,2018,Fire,WA
+5255,2018,Fire,OR
+5256,2018,Fire,OR
+5257,2018,Fire,WA
+5258,2018,Fire,TX
+5259,2018,Fire,CA
+5260,2018,Fire,CA
+5261,2018,Fire,WA
+5262,2018,Fire,CA
+5263,2018,Fire,ID
+5264,2018,Fire,TX
+5265,2018,Fire,OR
+5266,2018,Fire,WA
+5267,2018,Fire,UT
+5268,2018,Fire,CA
+5269,2018,Fire,WA
+5270,2018,Fire,WA
+5271,2018,Fire,WA
+5272,2018,Fire,SD
+5273,2018,Fire,WA
+5274,2018,Fire,OR
+5275,2018,Fire,OR
+5276,2018,Fire,WY
+5277,2018,Fire,UT
+5278,2019,Fire,CA
+5279,2019,Fire,CA
+5280,2019,Fire,CA
+5281,2019,Fire,NM
+5282,2019,Fire,AK
+5283,2019,Fire,NV
+5284,2019,Fire,AZ
+5285,2019,Fire,OR
+5286,2019,Fire,MT
+5287,2019,Fire,AK
+5288,2019,Fire,TX
+5289,2019,Fire,NV
+5290,2019,Fire,AK
+5291,2019,Fire,NV
+5292,2019,Fire,UT
